@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/assets/photos/crux-dec-2022.jpg" style="width: 100%; border: 2px solid black;">
+<img src="/assets/images/photos/crux-dec-2022.jpg" style="width: 100%; border: 2px solid black;">
 
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
