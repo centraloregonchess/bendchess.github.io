@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Staff
-
-### Leaders
+## Leaders
 <dl>
     <dt>Organizer & Chess Captain</dt>
     <dd>Dean C</dd>
@@ -14,22 +12,30 @@ permalink: /about/
     <dd>Leif W</dd>
 </dl>
 
-### Deputies
+## Deputies
 <dl>
-    <dt>Deputy</dt>
-    <dd>Andy V</dd>
-    <dt>Deputy</dt>
-    <dd>Brad H</dd>
-    <dt>Deputy</dt>
-    <dd>Carlin K</dd>
     <dt>Deputy</dt>
     <dd>Pat A</dd>
     <dt>Deputy</dt>
     <dd>Zachary B</dd>
 </dl>
 
+## Champions
+<dl>
+    <dt>2022 Chess Champion</dt>
+    <dd>Joe L</dd>
+</dl>
 
-## Club History
+
+## Captains
+<dl>
+    <dt>Chess Captain, 2022-Present</dt>
+    <dd>Dean C</dd>
+    <dt>Go Captain, 2022-Present</dt>
+    <dd>Dean C</dd>
+</dl>
+
+## History
 <dl>
     <dt>December 2022</dt>
     <dd>Joe L becomes the club's 2022 Chess Champion.</dd>
@@ -53,21 +59,5 @@ permalink: /about/
     <dd>Relocates to <a href="https://goo.gl/maps/rk8fi7TYsLztZFfh6">The Grove</a> for a winter venue.</dd>
     <dt>August 4th, 2021</dt>
     <dd>Aran G & Dean C found the club at the <a href="https://goo.gl/maps/CMLgSEeDUtycm3t16">Midtown Yacht Club</a></dd>
-</dl>
-
-
-### Champions
-<dl>
-    <dt>2022 Chess Champion</dt>
-    <dd>Joe L</dd>
-</dl>
-
-
-### Captains
-<dl>
-    <dt>Chess Captain, 2022-Present</dt>
-    <dd>Dean C</dd>
-    <dt>Go Captain, 2022-Present</dt>
-    <dd>Dean C</dd>
 </dl>
 
