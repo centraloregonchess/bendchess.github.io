@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-<img class="page-banner" src="/assets/images/photos/crux-dec-2022.jpg">
+<img class="page-banner" src="/assets/images/photos/2022-12-crux.jpg">
 
 > **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
