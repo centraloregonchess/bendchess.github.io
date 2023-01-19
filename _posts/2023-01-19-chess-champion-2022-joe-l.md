@@ -18,9 +18,9 @@ In December, however, Zach D managed to tie with Joe L at 4.5/6 suggesting,
 perhaps, that a future rivalry could be brewing.
 
 Any rivalry may be cut short, however, when **Joe L leaves Bend in February 2023**.
-Joe has been the strongest player at the club since he joined in late 2020, and
+Joe has been the strongest player at the club since he joined in early 2022, and
 Joe has been one of the club's keenest supporters of new members and beginners
-alike.
+alike. The club will be a different beast without him.
 
 **Joe will be missed** and it seems only appropriate that he leaves as Champion of
 a club that benefited greatly from his skill, character and generosity.
