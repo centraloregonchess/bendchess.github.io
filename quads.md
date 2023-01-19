@@ -4,12 +4,14 @@ title: Quads
 permalink: /quads/
 ---
 
-See the <a href="https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing">Google Doc for pairings &amp; standings</a>.
+> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
-**To sign-up for Quads, speak to one of the Club Captains at club-night.**
+## Pairings
+See the [Google Doc for pairings][googledoc]. To sign-up for Quads speak to Dean at club-night.
 
 ## What are Quads?
-A monthly Chess tournament, where groups of four players (a quad) compete in an
+Some of our members (but not all) participate in our monthly Quads competition.
+Each Quad is a Chess tournament, where groups of four players (a quad) compete in an
 all-play-all event. **Games are played gradually over the course of the month.**
 Unplayed games are scored as nil and inactive players are removed from the next
 month's pairings.
@@ -91,4 +93,7 @@ more highly:
 0.  Inactive players may be dropped from next month's pairings.
 0.  Grand Prix Points: Games played + score.
 0.  Quarterly Grandprix: Most Grand Prix Points over 3 months.
+
+[googledoc]: https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing
+[meetup]: https://www.meetup.com/bend-chess-go-club/
 

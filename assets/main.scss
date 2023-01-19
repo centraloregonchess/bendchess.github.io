@@ -1,0 +1,51 @@
+---
+---
+@import "minima";
+
+.site-title, h1, h2, h3, h4, h5, h6 {
+    font-family: Serif;
+}
+
+.site-title {
+    padding-left: 4.5ex;
+    background-image: url(/assets/images/logo-icon.png);
+    background-size: 4ex;
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+h2, h3, h4, h5, h6 {
+    margin-bottom: 0;
+    border-top: 1px solid #ddd;
+}
+
+h2 {
+    margin-top: 2em;
+    border-top: 1px solid #aaa;
+}
+
+dl {
+    margin-bottom: 3ex;
+}
+
+dt {
+    margin-left: 1ex;
+    font-weight: bold;
+}
+
+dd {
+    margin-left: 5ex;
+    margin-bottom: 1ex;
+}
+
+.page-content a {
+    text-decoration: underline;
+}
+
+img.page-banner {
+    width: 100%;
+    border: 3px solid black;
+    border-radius: 2px;
+}
+
+

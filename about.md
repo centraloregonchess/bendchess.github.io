@@ -3,8 +3,31 @@ layout: page
 title: About
 permalink: /about/
 ---
+> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
-## Leaders
+## The Club
+We are an informal club that meets to play Chess & Go. We meet one evening per
+week at a fun, lively (and seasonal) venue with access to food & drink. We try
+to cultivate a light-hearted atmosphere and encourage our members to enjoy each
+other's company whilst crushing at the board!
+
+## The Venues
+The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
+
+*   **Winter Venue:  [Crux Fermentation Project][crux]**, Wednesdays 6pm.
+*   Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
+
+
+## The Crew
+We have organizers, captains & deputies. We work together to promote the success
+of the club.
+
+
+### Leaders
+The club has organizers who manage the club day-to-day. We have two Club Captains,
+one for Chess and one for Go - the Captains drive engagement for each game at the
+club.
+
 <dl>
     <dt>Organizer & Chess Captain</dt>
     <dd>Dean C</dd>
@@ -12,7 +35,11 @@ permalink: /about/
     <dd>Leif W</dd>
 </dl>
 
-## Deputies
+### Deputies
+Supporting the Captains are the Club Deputies. A Deputy embodies the culture
+of the club and have often helped new members and beginners get started, or they
+fill-in for the Captains when they're absent.
+
 <dl>
     <dt>Deputy</dt>
     <dd>Pat A</dd>
@@ -20,14 +47,18 @@ permalink: /about/
     <dd>Zachary B</dd>
 </dl>
 
-## Champions
+## Club History
+We record past Champions &amp; Captains, and we also record a timeline of
+important events.
+
+### Champions
 <dl>
     <dt>2022 Chess Champion</dt>
     <dd>Joe L</dd>
 </dl>
 
 
-## Captains
+### Captains
 <dl>
     <dt>Chess Captain, 2022-Present</dt>
     <dd>Dean C</dd>
@@ -35,7 +66,7 @@ permalink: /about/
     <dd>Dean C</dd>
 </dl>
 
-## History
+### Timeline
 <dl>
     <dt>December 2022</dt>
     <dd>Joe L becomes the club's 2022 Chess Champion.</dd>
@@ -61,3 +92,5 @@ permalink: /about/
     <dd>Aran G & Dean C found the club at the <a href="https://goo.gl/maps/CMLgSEeDUtycm3t16">Midtown Yacht Club</a></dd>
 </dl>
 
+[crux]: https://www.cruxfermentation.com/
+[meetup]: https://www.meetup.com/bend-chess-go-club/

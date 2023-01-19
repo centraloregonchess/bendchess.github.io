@@ -5,10 +5,10 @@
 layout: home
 ---
 
-<img src="/assets/images/photos/crux-dec-2022.jpg" style="width: 100%; border: 2px solid black;">
 
-The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
+<img class="page-banner" src="/assets/images/photos/crux-dec-2022.jpg">
 
-*   **Winter Venue: <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>**, Wednesdays 6pm.
-*   Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
+> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
+
+[meetup]: https://www.meetup.com/bend-chess-go-club/
