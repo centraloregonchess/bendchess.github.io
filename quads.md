@@ -6,8 +6,8 @@ permalink: /quads/
 
 > **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
-## Pairings
-See the [Google Doc for pairings][googledoc]. To sign-up for Quads speak to Dean at club-night.
+## Pairings & Results
+See the [Google Doc][googledoc].
 
 ## What are Quads?
 Some of our members (but not all) participate in our monthly Quads competition.
@@ -26,6 +26,19 @@ the winners of the Championship Quad compete to become Club Chess Champion.
 Each game and every point scored also contribute towards a Grand Prix score.
 Each Grand Prix lasts three months and allows active players to compete across
 Quads.
+
+## Sign-Up/Opt-Out
+Please speak to Dean at club-night if you'd like to sign-up or opt-out. There
+is a sign-up (and an opt-out) form on the clip-board which should be filled in.
+If you become inactive you will be dropped automatically. If you know in
+advance, however, it's helpful to know so that we can remove you from the
+pairings.
+
+You can rejoin at any time. Just speak to Dean - in some cases we can get you
+onto the super-quad right away.
+
+> We only recommend Quads to members who average at least 50% attendance.
+
 
 ## Quad-Night Points
 **The first club-night of every month is Quad-Night.** Quad games played on a
