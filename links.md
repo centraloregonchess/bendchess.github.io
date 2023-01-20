@@ -15,10 +15,6 @@ permalink: /links/
 |Central Oregon Chess Club|Bend|Chess|Thursdays&nbsp;6pm<br><a href="https://goo.gl/maps/XCGosQLEEgiGD5tJ9">Whispering Winds Retirement</a>|<a href="https://nwchess.com/clubs/bend_cocc.html">Club Details</a> or<br>email Ryan B at<br><a href="mailto:rberhar@yahoo.com">rberhar@yahoo.com</a><br>to join the mailing list.|
 |Redmond Chess Group|Redmond|Chess|Saturdays&nbsp;3pm<br><a href="https://goo.gl/maps/owseHz46daGgRNfDA">Redmond Library</a>|<a href="https://nwchess.com/clubs/redmond.html">Club Details</a>|
 
-## Social Links
-The club's social links are available at [linktr.ee/bendchess][linktree]
-
 [crux]: https://www.cruxfermentation.com/
 [mailinglist]: https://www.subscribepage.com/o3u2m9
 [meetup]: https://www.meetup.com/bend-chess-go-club/
-[linktree]: https://linktr.ee/bendchess

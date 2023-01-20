@@ -11,7 +11,8 @@ permalink: /join/
 2.  [Subscribe to the Mailing List][mailinglist] so that you can get news.
 3.  RSVP to a club-night via the MeetUp, then visit us and play!
 
-Congratulations! You're a member!
+Visit us twice? Congratulations, you're a member!
+
 
 ## Club Nights (MeetUp)
 We meet weekly but the night and the venue changes depending on the time of
@@ -28,7 +29,10 @@ RSVP'd [via MeetUp][meetup]!
 Bring a board &amp; a clock (if you have ones you prefer) or use the equipment
 provided by the club. Look for others, introduce yourself and challenge someone
 to a game! It's a no-pressure, unrated, relaxed meetup where you can sit down
-and play anyone.
+and play anyone. Food & drink is usually accessible either through local vendors
+or the venue itself.
+
+Really, just check out [the MeetUp][meetup]!
 
 ## Mailing List
 The mailing list allows to to announce changes to the club's structure or to

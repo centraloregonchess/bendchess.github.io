@@ -6,7 +6,7 @@ permalink: /quads/
 
 > **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
-## Pairings & Results
+## Pairings, Results & Rules
 See the [Google Doc][googledoc].
 
 ## What are Quads?
@@ -69,6 +69,7 @@ Grand-Prix points for each month are calculated as:
 There are four Grand-Prix races each year:
 
 |Grand-Prix|Months|
+|---|---|
 |Winter|January-March|
 |Spring|April-June|
 |Summer|July-September|
@@ -91,21 +92,6 @@ more highly:
 |July-September|1.5|
 |October-November|2|
 |December|Not played|
-
-## Rules
-1.  Have fun. (No-one wins if you're not fun to play with!)
-0.  A new competition starts each month.
-0.  Play two games (White & Black) against each opponent in your Quad.
-0.  All games to be played at the club. Unplayed games score nil.
-0.  Time-control must be 10+5
-0.  Touch-a-piece-move-that-piece!
-0.  Place a QUAD GAME sign whenever playing a Quad game.
-0.  Do not disturb games with a QUAD GAME sign.
-0.  Promotions/demotions are determined by position within quad.
-0.  Tie-breaks: head-to-head score, 1st week game-count, grand-prix points.
-0.  Inactive players may be dropped from next month's pairings.
-0.  Grand Prix Points: Games played + score.
-0.  Quarterly Grandprix: Most Grand Prix Points over 3 months.
 
 [googledoc]: https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing
 [meetup]: https://www.meetup.com/bend-chess-go-club/
