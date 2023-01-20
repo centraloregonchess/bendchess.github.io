@@ -4,7 +4,7 @@ title: Quads
 permalink: /quads/
 ---
 
-> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
+<img class="page-banner" title="Quad Games under-way one club-night at Crux, our winter venue." src="/assets/images/photos/2022-10-crux.jpg">
 
 ## Pairings, Results & Rules
 See the [Google Doc][googledoc].

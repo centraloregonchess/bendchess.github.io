@@ -5,11 +5,14 @@ permalink: /about/
 ---
 > **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
+
 ## The Club
+<img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
 We are an informal club that meets to play Chess & Go. We meet one evening per
 week at a fun, lively (and seasonal) venue with access to food & drink. We try
-to cultivate a light-hearted atmosphere and encourage our members to enjoy each
-other's company whilst crushing at the board!
+to cultivate a light-hearted atmosphere and a welcoming scene for beginners &amp;
+experts alike.
+
 
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
@@ -18,12 +21,12 @@ The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 *   Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
 
 
-## The Crew
+## Staff
 We have organizers, captains & deputies. We work together to promote the success
 of the club.
 
 
-### Leaders
+### Officers
 The club has organizers who manage the club day-to-day. We have two Club Captains,
 one for Chess and one for Go - the Captains drive engagement for each game at the
 club.

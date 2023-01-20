@@ -7,11 +7,10 @@ permalink: /join/
 > **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
 
 ## Join the Club
+<img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
 1.  [Join the MeetUp][meetup] so that you can RSVP to club-nights.
 2.  [Subscribe to the Mailing List][mailinglist] so that you can get news.
 3.  RSVP to a club-night via the MeetUp, then visit us and play!
-
-Visit us twice? Congratulations, you're a member!
 
 
 ## Club Nights (MeetUp)
