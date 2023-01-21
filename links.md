@@ -13,8 +13,17 @@ permalink: /links/
 |---|---|---|---|---|
 |Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm<br>[Crux Fermentation Project][crux]|[Mailing List Sign-up][mailinglist]|
 |Central Oregon Chess Club|Bend|Chess|Thursdays&nbsp;6pm<br><a href="https://goo.gl/maps/XCGosQLEEgiGD5tJ9">Whispering Winds Retirement</a>|<a href="https://nwchess.com/clubs/bend_cocc.html">Club Details</a> or<br>email Ryan B at<br><a href="mailto:rberhar@yahoo.com">rberhar@yahoo.com</a><br>to join the mailing list.|
-|Redmond Chess Group|Redmond|Chess|Saturdays&nbsp;3pm<br><a href="https://goo.gl/maps/owseHz46daGgRNfDA">Redmond Library</a>|<a href="https://nwchess.com/clubs/redmond.html">Club Details</a>|
+|Redmond Chess Group|Redmond|Chess|Saturdays&nbsp;2pm<br><a href="https://goo.gl/maps/owseHz46daGgRNfDA">Redmond Library</a>|<a href="https://nwchess.com/clubs/redmond.html">Club Details</a>|
+
+## Websites
+<dl>
+    <dt>North-West Chess (<a href="https://nwchess.com">nwchess.com</a>)</dt>
+    <dd>A good source of information about Chess events/clubs in the Pacific North-West.</dd>
+    <dt>US Chess Federation (<a href="https://new.uschess.org/">uschess.org</a>)</dt>
+    <dd>You should join the USCF if you plan to compete in USCF tournaments.</dd>
+</dl>
 
 [crux]: https://www.cruxfermentation.com/
 [mailinglist]: https://www.subscribepage.com/o3u2m9
 [meetup]: https://www.meetup.com/bend-chess-go-club/
+
