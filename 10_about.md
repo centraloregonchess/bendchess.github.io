@@ -47,6 +47,10 @@ fill-in for the Captains when they're absent.
     <dt>Deputy</dt>
     <dd>Andy V</dd>
     <dt>Deputy</dt>
+    <dd>Brad H</dd>
+    <dt>Deputy</dt>
+    <dd>Carlin K</dd>
+    <dt>Deputy</dt>
     <dd>Pat A</dd>
     <dt>Deputy</dt>
     <dd>Zachary B</dd>
