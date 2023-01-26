@@ -39,6 +39,15 @@ onto the super-quad right away.
 
 > We only recommend Quads to members who average at least 50% attendance.
 
+## Prizes
+Prizes are subject to vary depending on availability.
+
+|Quad|Prize|
+|Championship|Club T-Shirt|
+|Any|1 month Chess.com subscription.|
+
+Speak to Dean about claiming your prize.
+
 
 ## Quad-Night Points
 **The first club-night of every month is Quad-Night.** Quad games played on a
@@ -55,7 +64,6 @@ player is promoted/demoted. The following tie-breaks are used in order:
 1.  Head-to-head score.
 2.  Quad-night points.
 3.  Grand-prix points.
-4.  Lowest-rating wins.
 
 ## Grand-Prix
 Each quarter Quad players compete in the Grand-Prix. At the end of the Quarter,
@@ -76,22 +84,27 @@ There are four Grand-Prix races each year:
 |Fall|October-November|
 
 For the Fall Grand-Prix, points for the entire year are counted - so it becomes
-a Grand-Prix-of-the-Year competition.
+a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins a
+club T-Shirt.**
 
 ## Championship
-Winning the Championship Quad scores points towards the Club Chess
-Championship. At the end of each year, the winner of the most points is named
-Club Chess Champion.
+Quad players are eligible to score Championship points. In December, once all
+Quads have been played, the player with the most Championship points is
+declared that year's Club Chess Champion.
 
-The number of points changes each month, with months later in the year scoring
-more highly:
+The number of Championship points won each month is determined by where each
+player finished within the Quads. Winning the Championship gives an extra boost
+of points. Winning any Quad gives a single Championship point.
 
-|Month|Points|
-|---|---|
-|January-June|1|
-|July-September|1.5|
-|October-November|2|
-|December|Not played|
+|Quad|Position|Points|
+|Championship|1st|5|
+| |2nd|3|
+| |3rd|2|
+| |4th|1|
+|Any|1st|1|
+
+Because Quads are played from January to November, the most Champion points any
+player can win is 55.
 
 [googledoc]: https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing
 [meetup]: https://www.meetup.com/bend-chess-go-club/
