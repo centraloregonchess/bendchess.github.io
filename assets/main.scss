@@ -4,6 +4,7 @@
 
 .site-title, h1, h2, h3, h4, h5, h6 {
     font-family: Serif;
+    clear: both;
 }
 
 .site-title {
@@ -44,6 +45,14 @@ dd {
 
 img.page-banner {
     width: 100%;
+    border: 3px solid black;
+    border-radius: 2px;
+}
+
+img.page-context-left {
+    width: 40%;
+    margin: 1ex;
+    float: left;
     border: 3px solid black;
     border-radius: 2px;
 }
