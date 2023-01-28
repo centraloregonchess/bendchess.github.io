@@ -72,7 +72,7 @@ important events.
     <dt>Chess Captain, 2022-Present</dt>
     <dd>Dean C</dd>
     <dt>Go Captain, 2022-Present</dt>
-    <dd>Dean C</dd>
+    <dd>Leif W</dd>
 </dl>
 
 ### Timeline
