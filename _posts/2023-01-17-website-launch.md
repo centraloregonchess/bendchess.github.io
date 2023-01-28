@@ -2,6 +2,8 @@
 layout: post
 title:  "Website Launched"
 date:   2023-01-17 13:29:51 -0600
+blurb:  "Finally the club has a website!"
+thumbnail: "2023-01-logo-tall.png"
 categories: news
 ---
 We have launched our new website. This post is mostly for testing whilst we get

@@ -65,4 +65,26 @@ img.page-context-right {
     border-radius: 2px;
 }
 
+ul.post-list li {
+    clear: both;
+    padding-top: 2ex;
+}
+
+ul.post-list .post-link {
+    font-size: 35px;
+}
+
+ul.post-list img.thumbnail {
+    float: left;
+    width: 20ex;
+    margin: 1ex;
+    border: 3px solid black;
+    border-radius: 2px;
+}
+
+p.rss-subscribe {
+    margin-top: 2ex;
+    clear: both;
+}
+
 

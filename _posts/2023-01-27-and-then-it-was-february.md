@@ -2,7 +2,8 @@
 layout: post
 title:  "And then it was February"
 date:   2023-01-27 10:00:00 -0800
-thumbnail: /assets/images/photos/2023-02-hats.jpg
+thumbnail: 2023-02-hats.jpg
+blurb: Changes are afoot. And hats are ahead!
 categories: news
 ---
 
@@ -10,7 +11,7 @@ Some months fly by. Many things happened in January 2023 but really much has
 changed since October 2022, when we moved to our winter venue at [Crux][crux]. To
 business, then!
 
-##  <img class="page-context-left" src="/assets/images/photos/2023-01-chess-champion-joe-l.jpg" alt="Joe L (left) receives the 2022 Chess Champion trophy"> Club Chess Champion, 2022
+## <img class="page-context-left" src="/assets/images/photos/2023-01-chess-champion-joe-l.jpg" alt="Joe L (left) receives the 2022 Chess Champion trophy"> Club Chess Champion, 2022
 Don't miss our [round-up of Joe L's victories in 2022][joe-article]. Joe's a
 worthy champion - not just in strength of play, but by example and character
 too. A well earned trophy!

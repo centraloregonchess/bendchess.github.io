@@ -3,6 +3,8 @@ layout: post
 title:  "Joe L is 2022 Chess Champion!"
 date:   2023-01-19 09:00:00 -0800
 author: Dean C
+thumbnail: "2023-01-chess-champion-joe-l.jpg"
+blurb: "Joe L was awarded his Championship trophy this week!"
 categories: news quads winners
 ---
 <img class="page-banner" src="/assets/images/photos/2023-01-chess-champion-joe-l.jpg" alt="Joe L (left) receives the 2022 Chess Champion trophy">
