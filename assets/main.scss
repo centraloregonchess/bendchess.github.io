@@ -86,3 +86,48 @@ p.rss-subscribe {
     clear: both;
 }
 
+.with-background-icon {
+    margin-top: 1ex;
+    margin-bottom: 2ex;
+    padding-left: 4.5ex;
+    background-image: url(/assets/images/logo-icon.png);
+    background-size: 3.5ex;
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+dl.people dd {
+    font-size: 14pt;
+    padding-left: 8ex;
+    padding-top: 3ex;
+    padding-bottom: 3ex;
+    background-size: 7ex;
+}
+
+.people-default {
+    background-image: url(/assets/images/people/default.png);
+}
+.people-andy-v{
+    background-image: url(/assets/images/people/2022-12-andy-v.jpg);
+}
+.people-brad-h {
+    background-image: url(/assets/images/people/default.png);
+}
+.people-carlin-k {
+    background-image: url(/assets/images/people/default.png);
+}
+.people-dean-c {
+    background-image: url(/assets/images/people/2021-12-dean-c.jpg);
+}
+.people-leif-w{
+    background-image: url(/assets/images/people/default.png);
+}
+.people-joe-l{
+    background-image: url(/assets/images/people/2023-01-joe-l.jpg);
+}
+.people-pat-a {
+    background-image: url(/assets/images/people/default.png);
+}
+.people-zachary-b {
+    background-image: url(/assets/images/people/default.png);
+}

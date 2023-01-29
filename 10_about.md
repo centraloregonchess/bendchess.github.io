@@ -31,11 +31,11 @@ The club has organizers who manage the club day-to-day. We have two Club Captain
 one for Chess and one for Go - the Captains drive engagement for each game at the
 club.
 
-<dl>
+<dl class="people">
     <dt>Organizer & Chess Captain</dt>
-    <dd>Dean C</dd>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Go Captain</dt>
-    <dd>Leif W</dd>
+    <dd class="with-background-icon people-leif-w">Leif W</dd>
 </dl>
 
 ### Deputies
@@ -43,17 +43,17 @@ Supporting the Captains are the Club Deputies. A Deputy embodies the culture
 of the club and have often helped new members and beginners get started, or they
 fill-in for the Captains when they're absent.
 
-<dl>
+<dl class="people">
     <dt>Deputy</dt>
-    <dd>Andy V</dd>
+    <dd class="with-background-icon people-andy-v">Andy V</dd>
     <dt>Deputy</dt>
-    <dd>Brad H</dd>
+    <dd class="with-background-icon people-brad-h">Brad H</dd>
     <dt>Deputy</dt>
-    <dd>Carlin K</dd>
+    <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy</dt>
-    <dd>Pat A</dd>
+    <dd class="with-background-icon people-pat-a">Pat A</dd>
     <dt>Deputy</dt>
-    <dd>Zachary B</dd>
+    <dd class="with-background-icon people-zachary-b">Zachary B</dd>
 </dl>
 
 ## Club History
@@ -63,26 +63,27 @@ important events.
 ### Champions
 <dl>
     <dt>2022 Chess Champion</dt>
-    <dd>Joe L</dd>
+    <dd class="with-background-icon people-joe-l">Joe L</dd>
 </dl>
 
 
 ### Captains
 <dl>
     <dt>Chess Captain, 2022-Present</dt>
-    <dd>Dean C</dd>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Go Captain, 2022-Present</dt>
-    <dd>Leif W</dd>
+    <dd class="with-background-icon people-leif-w">Leif W</dd>
 </dl>
 
 ### Timeline
 <dl>
     <dt>December 2022</dt>
-    <dd>Joe L becomes the club's 2022 Chess Champion.</dd>
+    <dd class="with-background-icon people-joe-l">Joe L becomes the club's 2022 Chess Champion.</dd>
     <dt>October 5th, 2022</dt>
     <dd>The club moves to a regular winter venue at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>.</dd>
     <dt>September 2nd, 2022</dt>
-    <dd>Leif W becomes the first Go Captain &amp; Dean C becomes the first Chess Captain.</dd>
+    <dd class="with-background-icon people-leif-w">Leif W becomes the first Go Captain</dd>
+    <dd class="with-background-icon people-dean-c">Dean C becomes the first Chess Captain.</dd>
     <dt>September 2022</dt>
     <dd>Quads, a regular monthly competition, is started.</dd>
     <dt>June 16th, 2022</dt>
