@@ -5,6 +5,7 @@ date:   2023-01-27 10:00:00 -0800
 thumbnail: 2023-02-hats.jpg
 blurb: Changes are afoot. And hats are ahead!
 categories: news
+author: Dean C
 ---
 
 Some months fly by. Many things happened in January 2023 but really much has
