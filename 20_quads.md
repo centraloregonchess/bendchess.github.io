@@ -30,9 +30,7 @@ Quads.
 ## Sign-Up/Opt-Out
 Please speak to Dean at club-night if you'd like to sign-up or opt-out. There
 is a sign-up (and an opt-out) form on the clip-board which should be filled in.
-If you become inactive you will be dropped automatically. If you know in
-advance, however, it's helpful to know so that we can remove you from the
-pairings.
+If you become inactive you will be dropped.
 
 You can rejoin at any time. Just speak to Dean - in some cases we can get you
 onto the super-quad right away.
@@ -40,13 +38,16 @@ onto the super-quad right away.
 > We only recommend Quads to members who average at least 50% attendance.
 
 ## Prizes
-Prizes are subject to vary depending on availability.
+Players are awarded [Championship Points](#championship) (not to be confused
+with Quad-Night points!) depending on the Quad and their position within that
+Quad. Extra prizes are subject to vary depending on availability. Sorry about
+that, we do our best with proceeds from our [shop](/shop) or donations from
+members. Where possible we try at least for the following:
 
 |Quad|Prize|
-|Championship|Club T-Shirt|
-|Any|1 month Chess.com subscription.|
-
-Speak to Dean about claiming your prize.
+|---|---|
+|Championship<br>Winner|Club T-Shirt|
+|Any other Quad<br>Winner|1 month Chess.com subscription.|
 
 
 ## Quad-Night Points
@@ -64,6 +65,8 @@ player is promoted/demoted. The following tie-breaks are used in order:
 1.  Head-to-head score.
 2.  Quad-night points.
 3.  Grand-prix points.
+4.  Previous Grand-prix points.
+
 
 ## Grand-Prix
 Each quarter Quad players compete in the Grand-Prix. At the end of the Quarter,
@@ -87,6 +90,7 @@ For the Fall Grand-Prix, points for the entire year are counted - so it becomes
 a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins a
 club T-Shirt.**
 
+
 ## Championship
 Quad players are eligible to score Championship points. In December, once all
 Quads have been played, the player with the most Championship points is
@@ -97,14 +101,16 @@ player finished within the Quads. Winning the Championship gives an extra boost
 of points. Winning any Quad gives a single Championship point.
 
 |Quad|Position|Points|
-|Championship|1st|5|
-| |2nd|3|
-| |3rd|2|
-| |4th|1|
-|Any|1st|1|
+|---|---|---|
+|Championship|1st|6|
+| |2nd|4|
+| |3rd|3|
+| |4th|3|
+|Challenger|1st-2nd|2|
+| |3rd-4th|1|
+|Any other Quad|1st|2|
+| |2nd|1|
 
-Because Quads are played from January to November, the most Champion points any
-player can win is 55.
 
 [googledoc]: https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing
 [meetup]: https://www.meetup.com/bend-chess-go-club/
