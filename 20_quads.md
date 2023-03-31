@@ -42,12 +42,10 @@ Players are awarded [Championship Points](#championship) (not to be confused
 with Quad-Night points!) depending on the Quad and their position within that
 Quad. Extra prizes are subject to vary depending on availability. Sorry about
 that, we do our best with proceeds from our [shop](/shop) or donations from
-members. Where possible we try at least for the following:
+members.
 
-|Quad|Prize|
-|---|---|
-|Championship<br>Winner|Club T-Shirt|
-|Any other Quad<br>Winner|1 month Chess.com subscription.|
+The first time you win the Championship you will be awarded a Club T-Shirt.
+A T-Shirt (or similar) will also be awarded to the winner of the [Grand-Prix](#grand-prix).
 
 
 ## Quad-Night Points
@@ -88,7 +86,7 @@ There are four Grand-Prix races each year:
 
 For the Fall Grand-Prix, points for the entire year are counted - so it becomes
 a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins a
-club T-Shirt.**
+club T-Shirt or other swag!**
 
 
 ## Championship

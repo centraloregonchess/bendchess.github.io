@@ -13,7 +13,8 @@ permalink: /links/
 |---|---|---|---|---|
 |Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm<br>[Crux Fermentation Project][crux]|[Mailing List Sign-up][mailinglist]|
 |Central Oregon Chess Club|Bend|Chess|Thursdays&nbsp;6pm<br><a href="https://goo.gl/maps/XCGosQLEEgiGD5tJ9">Whispering Winds Retirement</a>|<a href="https://nwchess.com/clubs/bend_cocc.html">Club Details</a> or<br>email Ryan B at<br><a href="mailto:rberhar@yahoo.com">rberhar@yahoo.com</a><br>to join the mailing list.|
-|Redmond Chess Group|Redmond|Chess|Saturdays&nbsp;2pm<br><a href="https://goo.gl/maps/owseHz46daGgRNfDA">Redmond Library</a>|<a href="https://nwchess.com/clubs/redmond.html">Club Details</a>|
+|La Pine Chess Club|La Pine |Chess|Coming soon<br><a href="https://goo.gl/maps/KXoJ78rZE53UXETe8">Wetlands Taphouse</a>|<a href="https://lapinechess.com">lapinechess.com</a>|
+|Redmond Chess Club|Redmond|Chess|Tuesdays&nbsp;6pm<br><a href="https://goo.gl/maps/UikSMEQfyZUicuH16">High Desert Music Hall</a>|<a href="https://redmondchess.com">redmondchess.com</a>|
 
 ## Websites
 <dl>
@@ -25,5 +26,5 @@ permalink: /links/
 
 [crux]: https://www.cruxfermentation.com/
 [mailinglist]: https://www.subscribepage.com/o3u2m9
-[meetup]: https://www.meetup.com/bend-chess-go-club/
+[meetup]: https://www.meetup.com/central-oregon-chess/
 

@@ -51,7 +51,7 @@ fill-in for the Captains when they're absent.
     <dt>Deputy</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-pat-a">Pat A</dd>
+    <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-b">Zachary B</dd>
 </dl>
@@ -66,6 +66,18 @@ important events.
     <dd class="with-background-icon people-joe-l">Joe L</dd>
 </dl>
 
+### Grand Prix Winners
+<dl>
+    <dt>2023</dt>
+    <dd>
+        <dl>
+            <dt>Winter</dt>
+            <dd>Daniel B & Dean C, 33.5 points.</dd>
+        </dl>
+    </dd>
+</dl>
+
+
 
 ### Captains
 <dl>
@@ -77,6 +89,8 @@ important events.
 
 ### Timeline
 <dl>
+    <dt>Jan 2023<dt>
+    <dd>Partnered with Central Oregon Chess Club &amp; renamed the MeetUp to "Central Oregon Chess".</dd>
     <dt>December 2022</dt>
     <dd class="with-background-icon people-joe-l">Joe L becomes the club's 2022 Chess Champion.</dd>
     <dt>October 5th, 2022</dt>
