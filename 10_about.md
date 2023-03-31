@@ -70,10 +70,9 @@ important events.
 <dl>
     <dt>2023</dt>
     <dd>
-        <dl>
-            <dt>Winter</dt>
-            <dd>Daniel B & Dean C, 33.5 points.</dd>
-        </dl>
+        <ul>
+            <li>Winter: <em>Daniel B</em>, 33.5 points.</li>
+        </ul>
     </dd>
 </dl>
 
@@ -89,7 +88,7 @@ important events.
 
 ### Timeline
 <dl>
-    <dt>Jan 2023<dt>
+    <dt>Jan 2023</dt>
     <dd>Partnered with Central Oregon Chess Club &amp; renamed the MeetUp to "Central Oregon Chess".</dd>
     <dt>December 2022</dt>
     <dd class="with-background-icon people-joe-l">Joe L becomes the club's 2022 Chess Champion.</dd>
