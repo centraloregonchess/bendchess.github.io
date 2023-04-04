@@ -13,6 +13,8 @@ week at a fun, lively (and seasonal) venue with access to food & drink. We try
 to cultivate a light-hearted atmosphere and a welcoming scene for beginners &amp;
 experts alike.
 
+Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
+
 
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
