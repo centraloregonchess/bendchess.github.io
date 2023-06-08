@@ -19,9 +19,8 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Winter Venue:  [Crux Fermentation Project][crux]**, Wednesdays 6pm.
-*   Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
-
+*   **Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>**, Wednesdays 6pm.
+*   Winter Venue:  [Crux Fermentation Project][crux].
 
 ## Staff
 We have organizers, captains & deputies. We work together to promote the success
