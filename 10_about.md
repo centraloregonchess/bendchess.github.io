@@ -72,8 +72,9 @@ important events.
     <dt>2023</dt>
     <dd>
         <ul>
-            <li>Spring: <em>Alyssa C</em>, 41.5 points.</li>
             <li>Winter: <em>Daniel B</em>, 33.5 points.</li>
+            <li>Spring: <em>Alyssa C</em>, 41.5 points.</li>
+            <li>Summer: <em>Daniel B</em>, 30.5 points.</li>
         </ul>
     </dd>
 </dl>
