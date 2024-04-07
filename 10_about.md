@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
+
+> **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
+> Wednedays 6pm.** (See [the MeetUp][meetup] for details or changes.)
 
 
 ## The Club
