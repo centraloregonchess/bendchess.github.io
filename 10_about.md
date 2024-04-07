@@ -79,9 +79,9 @@ important events.
     <dd>
         <ul>
             <li>Winter: <em>Shen S</em>, 44 points.</li>
-            <li>Spring:
-            <li>Summer:
-            <li>Annual:
+            <li>Spring:</li>
+            <li>Summer:</li>
+            <li>Annual:</li>
         </ul>
     </dd>
     <dt>2023</dt>
