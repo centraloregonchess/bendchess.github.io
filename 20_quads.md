@@ -11,7 +11,7 @@ See the [Google Doc][googledoc].
 
 ## What are Quads?
 Some of our members (but not all) participate in our monthly Quads competition.
-Each Quad is a Chess tournament, where groups of four players (a quad) compete in an
+Each Quad is a tournament, where groups of four players (a quad) compete in an
 all-play-all event. **Games are played gradually over the course of the month.**
 Unplayed games are scored as nil and inactive players are removed from the next
 month's pairings.
@@ -23,9 +23,11 @@ and demotions may happen to rebalance the Quads.
 
 As well as competing in the Quads, there are two other competitions. Each year
 the winners of the Championship Quad compete to become Club Chess Champion.
+(We started Go Quads in 2024 but don't expect to have a Go Championship yet!)
 Each game and every point scored also contribute towards a Grand Prix score.
 Each Grand Prix lasts three months and allows active players to compete across
 Quads.
+
 
 ## Sign-Up/Opt-Out
 Please speak to Dean at club-night if you'd like to sign-up or opt-out. There
@@ -37,23 +39,11 @@ onto the super-quad right away.
 
 > We only recommend Quads to members who average at least 50% attendance.
 
+
 ## Prizes
-Players are awarded [Championship Points](#championship) (not to be confused
-with Quad-Night points!) depending on the Quad and their position within that
-Quad. Extra prizes are subject to vary depending on availability. Sorry about
-that, we do our best with proceeds from our [shop](/shop) or donations from
-members.
-
-The first time you win the Championship you will be awarded a Club T-Shirt.
-A T-Shirt (or similar) will also be awarded to the winner of the [Grand-Prix](#grand-prix).
-
-
-## Quad-Night Points
-**The first club-night of every month is Quad-Night.** Quad games played on a
-Quad-Night score extra points that count towards tie-breaks and the Grand Prix
-title. While the result matters for the Quad tournament it makes no difference
-to the extra Quad-Night points. One point is awarded for each Quad game played
-on Quad-Night.
+Quad winners receive Championship points towards the Club Championship Trophy.
+The Grand-Prix winners mug is awarded every three months to the Grand-Prix
+winner!
 
 
 ## Tie-Breaks
@@ -73,20 +63,21 @@ same tie-breaks as Quads apply.)
 
 Grand-Prix points for each month are calculated as:
 
->   score + games played + quad night points
+>   score + games played + nights attended
 
-There are four Grand-Prix races each year:
+The Grand-Prix serves as a function of engagement+performance. There are four
+Grand-Prix races each year:
 
 |Grand-Prix|Months|
 |---|---|
 |Winter|January-March|
 |Spring|April-June|
 |Summer|July-September|
-|Fall|October-November|
+|Annual|January-December|
 
 For the Fall Grand-Prix, points for the entire year are counted - so it becomes
-a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins a
-club T-Shirt or other swag!**
+a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins the
+Grand-Prix Mug!**
 
 
 ## Championship
@@ -100,12 +91,12 @@ of points. Winning any Quad gives a single Championship point.
 
 |Quad|Position|Points|
 |---|---|---|
-|Championship|1st|6|
-| |2nd|4|
-| |3rd|3|
-| |4th|3|
-|Challenger|1st-2nd|2|
-| |3rd-4th|1|
+|Championship|1st|5|
+| |2nd|3|
+| |3rd|2|
+|Challenger|1st|3|
+| |2nd|2|
+| |3rd|1|
 |Any other Quad|1st|2|
 | |2nd|1|
 
