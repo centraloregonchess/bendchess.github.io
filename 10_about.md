@@ -19,8 +19,9 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Summer Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>**, Wednesdays 6pm.
-*   Winter Venue:  [Crux Fermentation Project][crux].
+*   **Venue: [Crux Fermentation Project][crux]**, Wednesdays 6pm.
+*   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
+    may host special events over the Summer.
 
 ## Staff
 We have organizers, captains & deputies. We work together to promote the success
@@ -46,16 +47,17 @@ fill-in for the Captains when they're absent.
 
 <dl class="people">
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-andy-v">Andy V</dd>
-    <dt>Deputy</dt>
-    <dd class="with-background-icon people-brad-h">Brad H</dd>
-    <dt>Deputy</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>Deputy</dt>
+    <dd class="with-background-icon people-jeff-g">Jeff G</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-tommy-i">Tommy I</dd>
+    <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-b">Zachary B</dd>
 </dl>
+
 
 ## Club History
 We record past Champions &amp; Captains, and we also record a timeline of
@@ -63,18 +65,30 @@ important events.
 
 ### Champions
 <dl>
+    <dt>2023 Chess Champion</dt>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>2022 Chess Champion</dt>
     <dd class="with-background-icon people-joe-l">Joe L</dd>
 </dl>
 
 ### Grand Prix Winners
 <dl>
+    <dt>2024</dt>
+    <dd>
+        <ul>
+            <li>Winter: <em>Shen S</em>, 44 points.</li>
+            <li>Spring:
+            <li>Summer:
+            <li>Annual:
+        </ul>
+    </dd>
     <dt>2023</dt>
     <dd>
         <ul>
             <li>Winter: <em>Daniel B</em>, 33.5 points.</li>
             <li>Spring: <em>Alyssa C</em>, 41.5 points.</li>
             <li>Summer: <em>Daniel B</em>, 30.5 points.</li>
+            <li>Annual: <em>Daniel B</em>, 100 points.</li>
         </ul>
     </dd>
 </dl>
@@ -89,12 +103,28 @@ important events.
     <dd class="with-background-icon people-leif-w">Leif W</dd>
 </dl>
 
+### Deputy Alumni
+Deputies that are less active at the club these days:
+
+<dl class="people">
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-andy-v">Andy V</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-brad-h">Brad H</dd>
+</dl>
+
 ### Timeline
 <dl>
+    <dt>Dec 2023</dt>
+    <dd class="with-background-icon people-dean-c">Dean C wins the club's 2023 Chess Championship.</dd>
+    <dt>Aug 2023</dt>
+    <dd>The club decides to meet at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a> year-round.</dd>
+    <dt>Aug 2023</dt>
+    <dd>The club decides to meet at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a> year-round.</dd>
     <dt>Jan 2023</dt>
     <dd>Partnered with Central Oregon Chess Club &amp; renamed the MeetUp to "Central Oregon Chess".</dd>
     <dt>December 2022</dt>
-    <dd class="with-background-icon people-joe-l">Joe L becomes the club's 2022 Chess Champion.</dd>
+    <dd class="with-background-icon people-joe-l">Joe L wins the club's 2022 Chess Championship.</dd>
     <dt>October 5th, 2022</dt>
     <dd>The club moves to a regular winter venue at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>.</dd>
     <dt>September 2nd, 2022</dt>
