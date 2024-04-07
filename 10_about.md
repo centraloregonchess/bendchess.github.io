@@ -121,8 +121,6 @@ Deputies that are less active at the club these days:
     <dd class="with-background-icon people-dean-c">Dean C wins the club's 2023 Chess Championship.</dd>
     <dt>Aug 2023</dt>
     <dd>The club decides to meet at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a> year-round.</dd>
-    <dt>Aug 2023</dt>
-    <dd>The club decides to meet at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a> year-round.</dd>
     <dt>Jan 2023</dt>
     <dd>Partnered with Central Oregon Chess Club &amp; renamed the MeetUp to "Central Oregon Chess".</dd>
     <dt>December 2022</dt>
