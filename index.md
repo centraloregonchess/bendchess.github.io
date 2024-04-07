@@ -8,7 +8,8 @@ layout: home
 
 <img class="page-banner" title="Club members play Chess & Go one club-night at Crux, our winter venue." src="/assets/images/photos/2022-12-crux.jpg">
 
-> **We meet weekly to play Chess &amp; Go. Come and join us! See [the MeetUp][meetup] for details.**
+> **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
+> Wednedays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 
 [meetup]: https://www.meetup.com/bend-chess-go-club/
