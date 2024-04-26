@@ -58,6 +58,8 @@ fill-in for the Captains when they're absent.
     <dd class="with-background-icon people-tommy-i">Tommy I</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-b">Zachary B</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-zachary-c">Zach C</dd>
 </dl>
 
 
