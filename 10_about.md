@@ -81,7 +81,7 @@ important events.
     <dd>
         <ul>
             <li>Winter: <em>Shen S</em>, 44 points.</li>
-            <li>Spring:</li>
+            <li>Spring: <em>Brandon H</em>, 42.5 points.</li>
             <li>Summer:</li>
             <li>Annual:</li>
         </ul>
