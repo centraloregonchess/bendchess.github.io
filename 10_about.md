@@ -49,6 +49,8 @@ fill-in for the Captains when they're absent.
 
 <dl class="people">
     <dt>Deputy</dt>
+    <dd class="with-background-icon people-andy-v">Andy V</dd>
+    <dt>Deputy & Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
@@ -57,18 +59,27 @@ fill-in for the Captains when they're absent.
     <dt>Deputy</dt>
     <dd class="with-background-icon people-tommy-i">Tommy I</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-zachary-b">Zachary B</dd>
-    <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-c">Zach C</dd>
 </dl>
 
+### Staff Alumni
+<dl class="people">
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-brad-h">Brad H</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-zachary-b">Zachary B</dd>
+</dl>
 
 ## Club History
 We record past Champions &amp; Captains, and we also record a timeline of
 important events.
 
 ### Champions
-<dl>
+<dl>    
+    <dt>2024 Chess Champion</dt>
+    <dd class="with-background-icon people-daniel-b">Daniel B</dd>
+    <dt>2024 Go Champion</dt>
+    <dd class="with-background-icon people-leif-w">Leif W</dd>
     <dt>2023 Chess Champion</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>2022 Chess Champion</dt>
@@ -79,11 +90,16 @@ important events.
 <dl>
     <dt>2024</dt>
     <dd>
+        <b>Chess:</b>
         <ul>
             <li>Winter: <em>Shen S</em>, 44 points.</li>
             <li>Spring: <em>Brandon H</em>, 42.5 points.</li>
-            <li>Summer:</li>
-            <li>Annual:</li>
+            <li>Summer: <em>Zach C</em>, 40.5</li>
+            <li>Annual: <em>Zach C</em> 142.5</li>
+        </ul>
+        <b>Go:</b>        
+        <ul>
+            <li>Annual: <em>Tommy I</em> 91.5</li>
         </ul>
     </dd>
     <dt>2023</dt>
@@ -107,18 +123,10 @@ important events.
     <dd class="with-background-icon people-leif-w">Leif W</dd>
 </dl>
 
-### Deputy Alumni
-Deputies that are less active at the club these days:
-
-<dl class="people">
-    <dt>Deputy</dt>
-    <dd class="with-background-icon people-andy-v">Andy V</dd>
-    <dt>Deputy</dt>
-    <dd class="with-background-icon people-brad-h">Brad H</dd>
-</dl>
-
 ### Timeline
 <dl>
+    <dt>Dec 2024</dt>
+    <dd class="with-background-icon people-daniel-b">Daniel B wins the club's 2024 Chess Championship &amp; Leif W wins the club's 2024 Go Championship.</dd>
     <dt>Dec 2023</dt>
     <dd class="with-background-icon people-dean-c">Dean C wins the club's 2023 Chess Championship.</dd>
     <dt>Aug 2023</dt>
