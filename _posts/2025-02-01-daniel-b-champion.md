@@ -7,7 +7,7 @@ thumbnail: "2025-daniel-b-champion.jpg"
 blurb: "Daniel B wins 2024's Chess Championship!"
 categories: news quads winners
 ---
-<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!">
+<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!" width="300" height="300">
 
 # **Bend Chess and Go Club Yearly Update**
 
