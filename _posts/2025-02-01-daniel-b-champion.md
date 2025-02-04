@@ -15,12 +15,14 @@ Congratulations to another great year of chess and go in Bend!
 
 ## **Champions!**
 2024 Club Chess Championship Winner - *Daniel B*
+
 2024 Club Go Championship Winner - *Leif W*
 
 2024 Chess Grand Prix - *Zach C*
+
 2024 Go Grand Prix - *Tommy I*
 
-2024 Junior of the Year - Max S
+2024 Junior of the Year - *Max S*
 
 >After a hard fought battle between Dean C, Zach C, and Daniel B, with the lead going back and forth all year, Dan pulled out the Club Championship by a single championship point. His enterprising play and exciting openings (the King's Gambit, mainline Najdorf, and the Benko gambit, among others, feature prominently in Dan’s repertoire) showed his class as one of the best chess players in Bend.
 >
