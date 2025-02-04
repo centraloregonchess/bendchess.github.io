@@ -8,8 +8,8 @@ blurb: "Daniel B wins 2024's Chess Championship!"
 categories: news quads winners
 ---
 <img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!">
-> Daniel B finally gets his trophy!
-# Bend Chess and Go Club Yearly Update
+>Daniel B finally gets his trophy!
+#Bend Chess and Go Club Yearly Update
 
 Congratulations to another great year of chess and go in Bend! 
 
