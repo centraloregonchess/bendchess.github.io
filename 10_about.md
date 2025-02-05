@@ -21,9 +21,10 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Venue: [Crux Fermentation Project][crux]**, Wednesdays 6pm.
+*   **Venue: [Crux Fermentation Project][crux]**, Wednesdays 6pm, September thru June.
 *   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
-    may host special events over the Summer.
+    are our summer-venue.
+
 
 ## Staff
 We have organizers, captains & deputies. We work together to promote the success
@@ -33,13 +34,18 @@ of the club.
 ### Officers
 The club has organizers who manage the club day-to-day. We have two Club Captains,
 one for Chess and one for Go - the Captains drive engagement for each game at the
-club.
+club. The organizer manages relationships with venues while the Web Officer handles
+online relationship &amp; media.
 
 <dl class="people">
     <dt>Organizer & Chess Captain</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Go Captain</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
+    <dt>Web Officer</dt>
+    <dd class="with-background-icon people-zach-c">Zach C</dd>
+    <dt>Discord Admin</dt>
+    <dd class="with-background-icon people-carlin-k">Carlin K</dd>
 </dl>
 
 ### Deputies
@@ -48,22 +54,26 @@ of the club and have often helped new members and beginners get started, or they
 fill-in for the Captains when they're absent.
 
 <dl class="people">
-    <dt>Deputy</dt>
-    <dd class="with-background-icon people-andy-v">Andy V</dd>
-    <dt>Deputy & Discord Admin</dt>
+    <dt>Deputy &amp; Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-jeff-g">Jeff G</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-tommy-i">Tommy I</dd>
+    <dd class="with-background-icon people-luca-p">Luca P</dd>
     <dt>Deputy</dt>
+    <dd class="with-background-icon people-tommy-i">Tommy I</dd>
+    <dt>Deputy &amp; Web Officer</dt>
     <dd class="with-background-icon people-zachary-c">Zach C</dd>
 </dl>
 
 ### Staff Alumni
+Members come and go with the years - our staff are no different!
+
 <dl class="people">
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-andy-v">Andy V</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-brad-h">Brad H</dd>
     <dt>Deputy</dt>
@@ -94,12 +104,12 @@ important events.
         <ul>
             <li>Winter: <em>Shen S</em>, 44 points.</li>
             <li>Spring: <em>Brandon H</em>, 42.5 points.</li>
-            <li>Summer: <em>Zach C</em>, 40.5</li>
-            <li>Annual: <em>Zach C</em> 142.5</li>
+            <li>Summer: <em>Zach C</em>, 40.5 points.</li>
+            <li>Annual: <em>Zach C</em>, 142.5 points.</li>
         </ul>
         <b>Go:</b>        
         <ul>
-            <li>Annual: <em>Tommy I</em> 91.5</li>
+            <li>Annual: <em>Tommy I</em>, 91.5 points.</li>
         </ul>
     </dd>
     <dt>2023</dt>
@@ -125,6 +135,8 @@ important events.
 
 ### Timeline
 <dl>
+    <dt>Jan 2025</dt>
+    <dd>The club starts the new Jan-thru-June Quad schedule, with next-season's qualifiers planned for the fall.</dd>
     <dt>Dec 2024</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B wins the club's 2024 Chess Championship &amp; Leif W wins the club's 2024 Go Championship.</dd>
     <dt>Dec 2023</dt>
