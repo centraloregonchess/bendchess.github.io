@@ -16,26 +16,59 @@ all-play-all event. **Games are played gradually over the course of the month.**
 Unplayed games are scored as nil and inactive players are removed from the next
 month's pairings.
 
+Go Quads &amp; Chess Quads work slightly differently.
+
+### Chess Quads &amp; Chess Championship
 Quads are rank-ordered and the top Quad is called the Championship. The winner
 of each Quad will get promoted to the Quad above. The last-place finisher will
 get demoted to the Quad below. As players join/leave the Quads extra promotions
 and demotions may happen to rebalance the Quads.
 
-As well as competing in the Quads, there are two other competitions. Each year
-the winners of the Championship Quad compete to become Club Chess Champion.
-(We started Go Quads in 2024 but don't expect to have a Go Championship yet!)
-Each game and every point scored also contribute towards a Grand Prix score.
-Each Grand Prix lasts three months and allows active players to compete across
-Quads.
+Quad winners score points towards the Club Chess Championship according to which
+Quad is won and where they place:
+
+|Quad|Position|Points|
+|---|---|---|
+|Championship|1st|5|
+| |2nd|3|
+| |3rd|2|
+|Challenger|1st|3|
+| |2nd|2|
+| |3rd|1|
+|Any other Quad|1st|2|
+| |2nd|1|
+
+
+### Go Quads
+Quads are rank-ordered and grouped according to strength, with the goal of
+keeping opponent's within 9 stones of each other. All games are played with a
+handicap to make the games even. If you rank-up, you will be promoted to a more
+suitable Quad. Go Quads have fewer participants than Chess Quads, so we're kind
+of free-wheeling it. For now, Go Quads last 3-months, with 3 games to be played
+versus each opponent in that time.
+
+Quad winners score points towards the Club Go Championship according to the
+strength of the Quad they won:
+
+|Quad|Position|Points|
+|---|---|---|
+|1 Dan+|1st|5|
+| |2nd|3|
+| |3rd|2|
+|1 Dan - 9 Kyu|1st|3|
+| |2nd|2|
+| |3rd|1|
+|10 Kyu - 19 Kyu|1st|2|
+| |2nd|1|
 
 
 ## Sign-Up/Opt-Out
 Please speak to Dean at club-night if you'd like to sign-up or opt-out. There
 is a sign-up (and an opt-out) form on the clip-board which should be filled in.
-If you become inactive you will be dropped.
 
-You can rejoin at any time. Just speak to Dean - in some cases we can get you
-onto the super-quad right away.
+If you become inactive you will be dropped. If you know you'll be away - let
+Dean know in advance and he can adjust pairings. You can rejoin at any time.
+Just speak to Dean - in some cases we can get you onto the super-quad right away.
 
 > We only recommend Quads to members who average at least 50% attendance.
 
@@ -51,15 +84,22 @@ When two players score the same points tie-breaks are used to decide which
 player is promoted/demoted. The following tie-breaks are used in order:
 
 1.  Head-to-head score.
-2.  Quad-night points.
-3.  Grand-prix points.
-4.  Previous Grand-prix points.
+2.  Games played.
+3.  Nights attended.
+4.  Previous Grand-prix.
+5.  Championship points.
+6.  Rating.
 
 
 ## Grand-Prix
 Each quarter Quad players compete in the Grand-Prix. At the end of the Quarter,
 the player to accumulate the most Grand-Prix points over 3 months wins. (The
 same tie-breaks as Quads apply.)
+
+**The winner of each Grand-Prix wins the Grand-Prix Mug!** Further, it is common
+for players to to tie a Quad with e.g. 4/6 having attended each week. In such cases,
+the previous Grand-Prix becomes an important tie-break, and Quad players should
+know if they are paired with a grand-prix winner (and that they will lose the tie-break!)
 
 Grand-Prix points for each month are calculated as:
 
@@ -73,32 +113,9 @@ Grand-Prix races each year:
 |Winter|January-March|
 |Spring|April-June|
 |Summer|July-September|
-|Annual|January-December|
-
-For the Fall Grand-Prix, points for the entire year are counted - so it becomes
-a Grand-Prix-of-the-Year competition. **The winner of each Grand-Prix wins the
-Grand-Prix Mug!**
+|Holiday|October-December|
 
 
-## Championship
-Quad players are eligible to score Championship points. In December, once all
-Quads have been played, the player with the most Championship points is
-declared that year's Club Chess Champion.
-
-The number of Championship points won each month is determined by where each
-player finished within the Quads. Winning the Championship gives an extra boost
-of points. Winning any Quad gives a single Championship point.
-
-|Quad|Position|Points|
-|---|---|---|
-|Championship|1st|5|
-| |2nd|3|
-| |3rd|2|
-|Challenger|1st|3|
-| |2nd|2|
-| |3rd|1|
-|Any other Quad|1st|2|
-| |2nd|1|
 
 
 [googledoc]: https://docs.google.com/spreadsheets/d/1ln8BVsmU0cEnVUBYC_Ka3j28RgHz0eFVmcDg4pUH3qE/edit?usp=sharing
