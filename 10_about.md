@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
-> Wednedays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 
 ## The Club
