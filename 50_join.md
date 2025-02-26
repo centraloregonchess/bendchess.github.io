@@ -5,7 +5,7 @@ permalink: /join/
 ---
 
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
-> Wednedays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 ## Join the Club
 <img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
@@ -16,9 +16,9 @@ permalink: /join/
 
 ## Club Nights
 We meet weekly but the night and the venue changes depending on the time of
-year. In rare cases a club-night is cancelled and non-members should check
+year. Currently our summer venue is The Commons, while Crux Fermentation Project hosts us the rest of the year. In rare cases a club-night is cancelled and non-members should check
 [the MeetUp][meetup] to confirm that the event is still on. Club-members
-will get notified via Discord.
+will get notified via Discord and/or email.
 
 
 ### What to expect
