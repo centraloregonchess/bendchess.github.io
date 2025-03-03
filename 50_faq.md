@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Join
-permalink: /join/
+title: FAQ
+permalink: /faq/
 ---
 
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
@@ -29,9 +29,11 @@ either through local vendors or the venue itself.
 
 
 ## Quads
+Quads run over the full month and are not one-night events. As such, we suggest
+that only regular members sign-up for Quads.
+
 Please speak to Dean about joining [Quads](/quads/). There is a sign-up sheet
-available for members on club-nights. (Note that we recommend that only active
-members sign-up for Quads.)
+available for members on club-nights.
 
 
 ### FAQ
