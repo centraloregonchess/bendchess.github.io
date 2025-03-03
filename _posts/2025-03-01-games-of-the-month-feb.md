@@ -6,7 +6,6 @@ author: Zach C
 thumbnail: 
 blurb: ""
 ---
-<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!" width="500" height="500">
 
 # Chess Game of the Month!
 
