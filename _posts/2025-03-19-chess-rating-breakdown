@@ -1,1 +1,22 @@
+---
+layout: post
+title:  "Chess Rating Breakdown"
+date:   2025-03-19 09:00:00 -0800
+author: Zach C
+thumbnail: ""
+blurb: "All the info you need about chess ratings!"
+categories: news 
+---
+<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!" width="500" height="500">
 
+
+# Chess Rating System
+All chess rating systems use some version of the Elo system. What is Elo? First, it is Elo and not ELO, as the system is named after its creator Arpad Elo, and is not an abbreviation of anything. Simply, Elo is a system used for calculating ratings in zero sum games such as chess or tennis, but it can be used for any closed system with direct wins and losses. 
+
+Every player has a numerical rating, and the difference between the ratings serves as a predictor for the outcome of the match. Two players with an equal rating are expected to score an equal number of wins/draws in a match (e.g. In a 10 game match between two players of equal rating, the expected outcome would be 5 wins for each player). 
+
+A player with a 100 point advantage on their opponent would be expected to score 64%, while a 200 point advantage would produce a 76% expected score. 
+
+Your Elo will change as a direct result of the games that you play and the strength of your opponents. If you beat a much stronger player you will gain many more rating points than you if you beat a much weaker player. For example, on chess.com, if you beat a player rated 100 points above you, you will gain 10 ratings points, but if you beat a player rated 100 points below you, you will only gain 6 points. In theory, this means that the system is self correcting, and given enough games played, your rating will directly track with your relative strength. 
+
+An important note—Elo ratings are comparative, and not objective. While ratings in one system are useful in broadly predicting performance in another, they are not independent measures of strength. Elo is solely based on wins/losses/draws, and does not take into account how those results came about. For chess, the best objective rating system is probably average accuracy/centipawn loss, but there is no standardized way to compute these percentages. 
