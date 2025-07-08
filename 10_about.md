@@ -3,10 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<!---
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
-
+--->
+> **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
+> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 ## The Club
 <img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
@@ -21,9 +23,10 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Venue: [Crux Fermentation Project][crux]**, Wednesdays 6pm, September thru June.
-*   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
-    are our summer-venue.
+*   **Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
+    Wednesdays, 6pm**, join us for Chess & Go by the river at our Summer venue.
+*   [Crux Fermentation Project][crux] is our Winter venue and hosts our Quad-Seasons
+    October-thru-June.
 
 
 ## Staff
@@ -46,6 +49,8 @@ online relationship &amp; media.
     <dd class="with-background-icon people-zach-c">Zach C</dd>
     <dt>Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
+    <dt>USCF Tournament Director</dt>
+    <dd class="with-background-icon people-daniel-b">Daniel B</dd>
 </dl>
 
 ### Deputies
@@ -56,10 +61,10 @@ fill-in for the Captains when they're absent.
 <dl class="people">
     <dt>Deputy &amp; Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
-    <dt>Deputy</dt>
+    <dt>Deputy &amp; TD</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-jeff-g">Jeff G</dd>
+    <dd class="with-background-icon people-luca-p">Loren S</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-luca-p">Luca P</dd>
     <dt>Deputy</dt>
@@ -77,6 +82,8 @@ Members come and go with the years - our staff are no different!
     <dt>Deputy</dt>
     <dd class="with-background-icon people-brad-h">Brad H</dd>
     <dt>Deputy</dt>
+    <dd class="with-background-icon people-jeff-g">Jeff G</dd>
+    <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-b">Zachary B</dd>
 </dl>
 
@@ -85,19 +92,46 @@ We record past Champions &amp; Captains, and we also record a timeline of
 important events.
 
 ### Champions
+
+#### Chess Champions
 <dl>    
+    <dt>2025 Chess Champion</dt>
+    <dd class="with-background-icon people-blake-s">Blake S</dd>
     <dt>2024 Chess Champion</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
-    <dt>2024 Go Champion</dt>
-    <dd class="with-background-icon people-leif-w">Leif W</dd>
     <dt>2023 Chess Champion</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>2022 Chess Champion</dt>
     <dd class="with-background-icon people-joe-l">Joe L</dd>
 </dl>
 
+#### Go Champions
+<dl>    
+    <dt>2025 Go Champion</dt>
+    <dd class="with-background-icon people-carlin-k">Carlin K</dd>
+    <dt>2024 Go Champion</dt>
+    <dd class="with-background-icon people-leif-w">Leif W</dd>
+</dl>
+
 ### Grand Prix Winners
 <dl>
+    <dt>2025</dt>
+    <dd>
+        <b>Chess:</b>
+        <ul>
+            <li>Winter: <em>Zach C</em>, 39 points.</li>
+            <li>Spring: <em>Sophie S</em>, 36.5 points.</li>
+            <li>Summer:</li>
+            <li>Holiday:</li>
+        </ul>
+        <b>Go:</b>        
+        <ul>
+            <li>Winter: <em>Joe M</em>, 26 points.</li>
+            <li>Spring: <em>Tommy I</em>, 24 points.</li>
+            <li>Summer:</li>
+            <li>Holiday:</li>
+        </ul>
+    </dd>
     <dt>2024</dt>
     <dd>
         <b>Chess:</b>
@@ -135,6 +169,11 @@ important events.
 
 ### Timeline
 <dl>
+    <dt>July 2025</dt>
+    <dd>The club returns to The Commons Cafe &amp; Taproom for the Summer, restoring the Summer &amp; Winter venue switches.</dd>
+    <dt>June 2025</dt>
+    <dd class="with-background-icon people-blake-s">Blake S wins the club's 2025 Chess Championship</dd>
+    <dd class="with-background-icon people-blake-s">Carlin K wins the club's 2025 Go Championship.</dd>
     <dt>Jan 2025</dt>
     <dd>The club starts the new Jan-thru-June Quad schedule, with next-season's qualifiers planned for the fall.</dd>
     <dt>Dec 2024</dt>

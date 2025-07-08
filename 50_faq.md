@@ -3,15 +3,22 @@ layout: page
 title: FAQ
 permalink: /faq/
 ---
-
+<!---
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
+--->
+> **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
+> Wednesdays 6pm.** (See <a href="https://www.meetup.com/central-oregon-chess/">The MeetUp</a> for changes.)
 
 ## Join the Club
 <img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
-1.  [Join the MeetUp][meetup] so that you can RSVP to club-nights.
+We're a casual club that runs an optional month-long [Quads](/quads/) competition.
+Before signing-up to Quads you'll be encouraged to attend a few club-nights
+and get a feel for how the club works.
+
+1.  [Join the MeetUp](https://www.meetup.com/central-oregon-chess/) so that you get notified of cancellations etc.
 2.  Attend a club-night and play some games!
-3.  Once at the club, join our Discord (details at venue) to keep up-to date!
+3.  Once at the club, join our Discord &amp; Mailing list (details at venue) to keep up-to date!
 
 
 ## Club Nights
@@ -65,7 +72,3 @@ available for members on club-nights.
     <dd>Yes, our winter venue, Crux, hosts us for most of the year. Our summer venue, The Commons, hosts us for casual play from July-September.</dd>
 </dl>
 
-
-[events]: https://www.meetup.com/bend-chess-go-club/events/
-[mailinglist]: https://www.subscribepage.com/o3u2m9
-[meetup]: https://www.meetup.com/bend-chess-go-club/
