@@ -2,6 +2,14 @@
 ---
 @import "minima";
 
+#contents {visibility: hidden}
+
+#contents + ul {
+  width: 50ex;
+  float: left;
+  ul { margin-left: 1em; }
+}
+
 .site-title, h1, h2, h3, h4, h5, h6 {
     font-family: Serif;
     clear: both;
@@ -15,13 +23,15 @@
     background-position-y: center;
 }
 
-h2, h3, h4, h5, h6 {
-    margin-bottom: 0;
+article {
+  h2, h3, h4, h5, h6 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
     border-top: 1px solid #ddd;
+  }
 }
 
 h2 {
-    margin-top: 2em;
     border-top: 1px solid #aaa;
 }
 
