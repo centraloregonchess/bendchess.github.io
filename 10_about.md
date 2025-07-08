@@ -3,10 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<!---
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
-
+--->
+> **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
+> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 ## The Club
 <img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
@@ -21,9 +23,10 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 ## The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Venue: [Crux Fermentation Project][crux]**, Wednesdays 6pm, September thru June.
-*   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
-    are our summer-venue.
+*   **Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
+    Wednesdays, 6pm**, join us for Chess & Go by the river at our Summer venue.
+*   [Crux Fermentation Project][crux] is our Winter venue and hosts our Quad-Seasons
+    October-thru-June.
 
 
 ## Staff
