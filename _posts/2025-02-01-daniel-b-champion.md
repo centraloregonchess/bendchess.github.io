@@ -7,7 +7,7 @@ thumbnail: "2024-daniel-b-champion.jpg"
 blurb: "Daniel B wins 2024's Chess Championship!"
 categories: news quads winners
 ---
-<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!">
+<img class="page-banner" src="/assets/images/photos/2024-12-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!">
 
 # Daniel B wins the 2024 Chess Championship!
 
