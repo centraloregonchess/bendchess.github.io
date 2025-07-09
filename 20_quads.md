@@ -78,8 +78,7 @@ next-year's **Quad-Season**!
 
 |Schedule|Season|Grand-Prix|
 |---|---|---|
-|Jan-Mar|**Quad-Season**|Winter |
-|Apr-Jun|               |Spring |
+|Jan-Jun|**Quad-Season**|Winter & Spring|
 |Jul-Sep|**Off-Season** |Summer |
 |Oct-Dec|**Pre-Season** |Holiday|
 
@@ -120,11 +119,7 @@ same tie-breaks as Quads apply.)
 
 Grand-Prix points for each month are calculated as:
 
->   score + games played + nights attended
-
-The Grand-Prix serves as a function of engagement+performance. Leaders in the
-Grand-Prix become the pace-setters at the club; often winning their Quads and
-active enough to influence the tone of the club each week.
+>   score + games played + check-ins
 
 There are four Grand-Prix races each year, one for each season:
 
@@ -134,6 +129,11 @@ There are four Grand-Prix races each year, one for each season:
 |**Spring**|April-June|Summer|
 |**Summer**|July-September|Holiday|
 |**Holiday**|October-December|Winter|
+
+**You may only win one Grand-Prix per year.** Previous winners are ommited from
+subsequent standings, although they still earn points for tie-break purposes.
+The highest any previous winner can place in any Grand-Prix later that
+year is 2nd.
 
 
 ## Prizes

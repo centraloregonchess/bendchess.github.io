@@ -10,6 +10,11 @@ permalink: /links/
 > **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
+## For Members 
+
+See [Linktr.ee/bendchess](https://linktr.ee/bendchess) for Club Links.
+
+
 ## Local Clubs
 <em>Bend Chess & Go Club</em> is not the only Chess club around Bend!
 
