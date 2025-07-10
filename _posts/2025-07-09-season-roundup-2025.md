@@ -11,7 +11,7 @@ categories: news quads
 ##### Contents
 
 *   **[2025 Quad-Season Awards](#2025-quad-season-awards)**
-    *   🏆 2025 Club Champions
+    *   🏆 2025 Champions
     *   **Chess Awards**
         *   [📈 Most Improved Player: Mike S](#-most-improved-player-mike-s)
         *   [🥊 Most Solid Player: Thomas F](#-most-solid-player-thomas-f)
@@ -78,7 +78,7 @@ The Club also celebrates [new Champions in both Chess & Go](#2025-champions). Yo
 <img class="page-context-left" src="/assets/images/photos/2025-07-champions-2025.jpg" alt="The club at our Winter venue, Crux">
 > Blake S & Carlin K receive their Championship Trophies
 
-Congratulations to **Blake S** and **Carlin K**, our new Club Champions. The
+Congratulations to **Blake S** and **Carlin K**, our new Bend Chess & Go Champions. The
 news was announced in the [Champions 2025](/news/2025/07/01/champions-2025.html) post
 and their Championship Seasons are detaile in both the [♟️ Chess Player](#chess-players) & [⚫ Go Player](#go-players) sections, below.
 
