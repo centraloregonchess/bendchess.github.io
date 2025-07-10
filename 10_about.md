@@ -46,7 +46,7 @@ online relationship &amp; media.
     <dt>Go Captain</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
     <dt>Web Officer</dt>
-    <dd class="with-background-icon people-zach-c">Zach C</dd>
+    <dd class="with-background-icon people-default">Zach C</dd>
     <dt>Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>USCF Tournament Director</dt>
@@ -64,19 +64,19 @@ fill-in for the Captains when they're absent.
     <dt>Deputy &amp; TD</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-luca-p">Loren S</dd>
+    <dd class="with-background-icon people-default">Loren S</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-luca-p">Luca P</dd>
+    <dd class="with-background-icon people-default">Luca P</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-tommy-i">Tommy I</dd>
+    <dd class="with-background-icon people-default">Tommy I</dd>
     <dt>Deputy &amp; Web Officer</dt>
-    <dd class="with-background-icon people-zachary-c">Zach C</dd>
+    <dd class="with-background-icon people-default">Zach C</dd>
 </dl>
 
 ### Staff Alumni
 Members come and go with the years - our staff are no different!
 
-<dl class="people">
+<dl>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-andy-v">Andy V</dd>
     <dt>Deputy</dt>
@@ -96,7 +96,7 @@ important events.
 #### Chess Champions
 <dl>    
     <dt>2025 Chess Champion</dt>
-    <dd class="with-background-icon people-blake-s">Blake S</dd>
+    <dd class="with-background-icon people-default">Blake S</dd>
     <dt>2024 Chess Champion</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
     <dt>2023 Chess Champion</dt>
@@ -172,12 +172,12 @@ important events.
     <dt>July 2025</dt>
     <dd>The club returns to The Commons Cafe &amp; Taproom for the Summer, restoring the Summer &amp; Winter venue switches.</dd>
     <dt>June 2025</dt>
-    <dd class="with-background-icon people-blake-s">Blake S wins the club's 2025 Chess Championship</dd>
-    <dd class="with-background-icon people-blake-s">Carlin K wins the club's 2025 Go Championship.</dd>
+    <dd class="with-background-icon people-default">Blake S wins the club's 2025 Chess Championship</dd>
+    <dd class="with-background-icon people-default">Carlin K wins the club's 2025 Go Championship.</dd>
     <dt>Jan 2025</dt>
     <dd>The club starts the new Jan-thru-June Quad schedule, with next-season's qualifiers planned for the fall.</dd>
     <dt>Dec 2024</dt>
-    <dd class="with-background-icon people-daniel-b">Daniel B wins the club's 2024 Chess Championship &amp; Leif W wins the club's 2024 Go Championship.</dd>
+    <dd class="with-background-icon people-default">Daniel B wins the club's 2024 Chess Championship &amp; Leif W wins the club's 2024 Go Championship.</dd>
     <dt>Dec 2023</dt>
     <dd class="with-background-icon people-dean-c">Dean C wins the club's 2023 Chess Championship.</dd>
     <dt>Aug 2023</dt>
@@ -189,7 +189,7 @@ important events.
     <dt>October 5th, 2022</dt>
     <dd>The club moves to a regular winter venue at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>.</dd>
     <dt>September 2nd, 2022</dt>
-    <dd class="with-background-icon people-leif-w">Leif W becomes the first Go Captain</dd>
+    <dd class="with-background-icon people-default">Leif W becomes the first Go Captain</dd>
     <dd class="with-background-icon people-dean-c">Dean C becomes the first Chess Captain.</dd>
     <dt>September 2022</dt>
     <dd>Quads, a regular monthly competition, is started.</dd>

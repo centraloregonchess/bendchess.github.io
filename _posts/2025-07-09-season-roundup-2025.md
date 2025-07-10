@@ -4,8 +4,8 @@ title:  "Quads 2025: Season Round-Up!"
 date:   2025-07-09 09:00:00 -0800
 author: Carlin K, Dean C, Zach C
 thumbnail: "2025-07-go-players-playing-rengo.jpg"
-blurb: "Your guide to the 2025 Quad-Season Awards, Player Profiles & Champions!"
-categories: news 
+blurb: "Your guide to the 2025 Quad-Season Awards & Player Profiles" 
+categories: news quads
 ---
 
 ##### Contents
@@ -14,12 +14,11 @@ categories: news
     *   🏆 2025 Club Champions
     *   **Chess Awards**
         *   [📈 Most Improved Player: Mike S](#-most-improved-player-mike-s)
-        *   [🥊 Rock Solid: Thomas F](#-rock-solid-thomas-f)
-        *   [🔥 Hottest Streak: Zach C](#-hottest-streak-zach-c)
-        *   [🎯 Consistency Award: Joey S](#-consistency-award-joey-s)
+        *   [🥊 Most Solid Player: Thomas F](#-most-solid-player-thomas-f)
+        *   [🎯 Most Consistent Player: Joey S](#-most-consistent-player-joey-s)
         *   [🎯 Rollercoaster: Daniel B](#-rollercoaster-award-daniel-b)
-        *   [🎯 Top Quad Perf: Zach C in June](#-best-top-quad-performance-zach-c-in-june)
-        *   [🎯 Lower Quad Perf: Joe M in May](#-best-lower-quad-performance-joe-m-in-may)
+        *   [🎯 Best Chess Perf: Zach C in June](#-best-top-quad-performance-zach-c-in-june)
+        *   [🎯 Best Lower-Quad Perf: Joe M in May](#-best-lower-quad-performance-joe-m-in-may)
         *   [🎭 Spirit of the Quads: Loren S](#-spirit-of-the-quads-award-loren-s)
     *   **Go Awards**
         *   [📈 Most Improved Player: Joe M](#-most-improved-player-joe-m)
@@ -27,32 +26,32 @@ categories: news
     *   **[🏁 Grand-Prix Winners](#grand-prix-winners)**
 *   **Player Profiles**
     *   **♟️ Chess Players**
-        *   [Blake S](#profiles-chess-blake-s)
-        *   [Zach C ](#profiles-chess-zach-c)
-        *   [Joey S](#profiles-chess-joey-s)
-        *   [Daniel B ](#profiles-chess-daniel-b)
+        *   **[Blake S](#profiles-chess-blake-s)** *(Chess Champion)*
+        *   **[Zach C ](#profiles-chess-zach-c)** *(Best Chess Performance)*
+        *   **[Joey S](#profiles-chess-joey-s)** *(Most Consistent Player)*
+        *   **[Daniel B ](#profiles-chess-daniel-b)** *(Rollercoaster)*
         *   [Dean C ](#profiles-chess-dean-c)
         *   [Andrew M](#profiles-chess-andrew-m)
         *   [Luca P ](#profiles-chess-luca-p)
         *   [Devin V](#profiles-chess-deviv)
-        *   [Loren S ](#profiles-chess-loren-s)
+        *   **[Loren S ](#profiles-chess-loren-s)** *(Spirit of the Quads)*
         *   [Chris H](#profiles-chess-chris-h)
-        *   [Mike S](#profiles-chess-mike-s)
+        *   **[Mike S](#profiles-chess-mike-s)** *(Most Improved Player)*
         *   [Max S](#profiles-chess-max-s)
-        *   [Joe M](#profiles-chess-joe-m)
+        *   **[Joe M](#profiles-chess-joe-m)** *(Best Lower-Quad Performance)*
         *   [Brian M](#profiles-chess-brian-m)
         *   [Sophie S](#profiles-chess-sophie-s)
-        *   [Thomas F](#profiles-chess-thomas-f)
+        *   **[Thomas F](#profiles-chess-thomas-f)** *(Most Solid Player)*
         *   [Zech Z](#profiles-chess-zech-z)
         *   [Julian T](#profiles-chess-julian-t)
         *   [Cedar M](#profiles-chess-cedar-m)
         *   [Adam Z](#profiles-chess-adam-z)
         *   [Weston L](#profiles-chess-weston-l)
     *   **⚫ Go Players**
-        *   [Carlin K ](#profiles-go-carlin-k)
-        *   [Joe M ](#profiles-go-joe-m)
+        *   **[Carlin K ](#profiles-go-carlin-k)** *(Go Champion)*
+        *   **[Joe M ](#profiles-go-joe-m)** *(Most Improved Player)*
         *   [Leif W ](#profiles-go-leif-w)
-        *   [Tommy I ](#profiles-go-tommy-i)
+        *   **[Tommy I ](#profiles-go-tommy-i)** *(Spirit of the Quads)*
         *   [Kaye G](#profiles-go-kaye-g)
         *   [Dean C](#profiles-go-dean-c)
 
@@ -65,18 +64,23 @@ For the first time in 2025 Quad-Season ran from January-thru-June instead of the
 
 As **we move to our Summer venue [The Commons Cafe & Taproom](/about/#the-venues)**, the club can relax until October for the Summer's Off-Season games. This year especially, though, we can **look back at our Winter venue, [Crux](/about/#the-venues)**, with gratitude for making our 2025 Quad-Season such a success!
 
+<img class="page-context-left" src="/assets/images/photos/2025-07-chess-champion-blake-s-receives-trophy-from-daniel-b.jpg" alt="Go Players gathered around a game of Rengo at our Winter venue, Crux">
+> 2025&nbsp;Chess&nbsp;Champion&nbsp;Blake&nbsp;S (left) receives his trophy from 2024 Chess Champion Daniel B.
+
+The Club also celebrates [new Champions in both Chess & Go](#2025-champions). You can read about the Champions and all-other players in the [Player Profiles](#player-profiles) section, below.
 
 ## 2025 Quad-Season Awards
 <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners.">
-> A picture with this year's winners will be posted after the prize ceremony!
+> Quad-Season 2025 Award Winners, from left to right: Joe M, Daniel B, Zach C, Loren S, Joey S, Blake S, Sophie S, Carlin K, Tommy I & Mike S
 
-### 2025 Club Champions
+### 2025 Champions
+
+<img class="page-context-left" src="/assets/images/photos/2025-07-champions-2025.jpg" alt="The club at our Winter venue, Crux">
+> Blake S & Carlin K receive their Championship Trophies
 
 Congratulations to **Blake S** and **Carlin K**, our new Club Champions. The
 news was announced in the [Champions 2025](/news/2025/07/01/champions-2025.html) post
-and the competitive nature of each race makes 2026 impossible to predict!
-
-> **Tip:** For more details, check-out the Champion profiles in both the [♟️ Chess Player](#chess-players) & [⚫ Go Player](#go-players) sections, below.
+and their Championship Seasons are detaile in both the [♟️ Chess Player](#chess-players) & [⚫ Go Player](#go-players) sections, below.
 
 
 ### Chess Awards
@@ -86,17 +90,12 @@ and the competitive nature of each race makes 2026 impossible to predict!
 Since joining the 5th Quad in February 2023, Mike S has often walked a line between the beginners and intermediates at the Club making him a common first-opponent for new-commers to the club. 2025 started with the club’s strongest ever field and this bode-poorly for Mike, who’s 2024 results had suffered as the club got stronger. Mike reversed the trend convincingly with a \+133 surge in elo\! Mike went from January’s 1124 to a personal-best with June’s 1257\! Throughout the season Mike continuously posted steady results and his 5/6 score in March secured a spot in the 3rd Quad. From there Mike’s performance ratings held-high as each month he saw off new challenges. Mike S even finished the season by winning the 3rd Quad in June\!
 
 
-#### 🥊 Rock Solid: Thomas F
+#### 🥊 Most Solid Player: Thomas F
 
 Thomas F might not always have the highest scores, but he has been the model of consistency in the 3rd Quad, staying in there for the entirety of the tournament. He managed to hold his own in quads with much higher and lower rated players, and showed a fighting spirit that kept higher seeds on their toes. He’s the kind of competitor no one can underestimate.
 
 
-#### 🔥 Hottest Streak: Zach C
-
-Zach C’s results might seem moderate at first glance, but look closer and you’ll see an impressive hot streak in June. After modest results earlier in the season, he erupted with 5/6 in June’s Championship Quad, achieving a performance rating of **2188**, his best of the year. This was a stunning leap and shows how momentum can shift in chess. Zach’s powerful finish hints at even greater things to come.
-
-
-#### 🎯 Consistency Award: Joey S
+#### 🎯 Most Consistent Player: Joey S
 
 Joey S delivered remarkably steady performances across the season, scoring between **10 and 15 Grand Prix points every month**. Joey kept racking up solid results in both Championship & Challenger Quads, even when facing higher-rated opposition. His average Elo stayed in the **1900s**, and had the lowest standard deviation of performance rating of 59.7, the lowest in the club by a significant margin\! His unorthodox style (who cares about king safety?), seems to perform similarly well against a wide range of players. 
 
@@ -133,58 +132,36 @@ While struggling a bit in his quad games, particularly in the first half of the 
 
 
 ### Grand-Prix Winners
-<img class="page-context-right" title="2025's Grand-Prix Winners" alt="Zach C, Joe M, Sophie S & Tommy I with their Grand-Prix Mugs" src="/assets/images/photos/2025-07-grand-prix-winners.jpg">
-The Grand-Prix rewards players who play games & score points. Scoring well means
-not only that you're active in the club, but that you are also winning games.
-Grand-Prix leaders tend to be the club's pace-setters, as their high-scoring
-results often decide the Quads they play in while their steady presence sets
-the Club's tone. The prize, awarded every three months, is a winning tie-break
-until the next Grand-Prix. Tie-breaks such as head-to-head score or
-games-played may not be enough to decide a four-person Quad, and the 2025
-season saw the Grand-Prix results (and it's tie-breaking role) becoming more
-important than ever!
-
-> Right: Zach C, Joe M, Sophie S & Tommy I with their Grand-Prix Mugs
+<img class="page-context-right" title="2025's Grand-Prix Winners" alt="assets/images/photos/2025-07-winners-2025.jpg" src="/assets/images/photos/2025-07-grand-prix-winners.jpg">
+The Grand-Prix rewards players who play games & score points. Here we see how
+different members show up through-ut the season, and which of them take the
+tie-break going into the next!
+> Right: Grand-Prix Winners Joe M, Zach C, Sophie S & Tommy I battle direct sunlight for a group-photo.
 
 #### Winter 2025 🎿⛄🌄
 
 *January-thru-March*
 
-| ♟️ Chess | Player | Score|
-| :---: | :---: | :---: |
-| 🏁 | **Zach C** | **39** |      
-| 2nd| Joey S | 39 | 
-| 3rd| Luca P | 38 | 
-| 4th| Brian M | 38 | 
-| 5th| Blake S | 37 | 
-
-| ⚫ Go | Player | Score|
-| :---: | :---: | :---: |
-| 🏁 | **Joe M** | **26** |      
-| 2nd| Kaye G | 24 | 
-| 3rd| Tommy I | 20 | 
-| 4th| Carlin K | 20 | 
-| 5th| Dean C | 20 | 
+| ♟️ Chess | Player | Score| |  ⚫ Go | Player | Score|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🏁 | **Zach C** | **39** | | 🏁 | **Joe M** | **26** |      
+| 2nd| Joey S | 39 || 2nd| Kaye G | 24 | 
+| 3rd| Luca P | 38 || 3rd| Tommy I | 20 | 
+| 4th| Brian M | 38 ||  4th| Carlin K | 20 | 
+| 5th| Blake S | 37 | | 5th| Dean C | 20 | 
 
 #### Spring 2025 🐣🌷☔
 
 *April-thru-June*
 
-| ♟️ Chess | Player | Score|
-| :---: | :---: | :---: |
-| 🏁 | **Sophie S** | **36.5** |      
-| 2nd| Chris H | 34.5 | 
-| 3rd| Mike S | 34 | 
-| 4th| Joey S | 33 | 
-| 5th| Luca P | 33 | 
+| ♟️ Chess | Player | Score| |  ⚫ Go | Player | Score|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 🏁 | **Sophie S** | **36.5** | | 🏁 | **Tommy I** | **24** |      
+| 2nd| Chris H | 34.5 | | 2nd| Joe M | 23 | 
+| 3rd| Mike S | 34 | | 3rd| Kaye G | 21 | 
+| 4th| Joey S | 33 | | 4th| Dean C | 20 | 
+| 5th| Luca P | 33 | | 5th| Carlin K | 11 | 
 
-| ⚫ Go | Player | Score|
-| :---: | :---: | :---: |
-| 🏁 | **Tommy I** | **24** |      
-| 2nd| Joe M | 23 | 
-| 3rd| Kaye G | 21 | 
-| 4th| Dean C | 20 | 
-| 5th| Carlin K | 11 | 
 
 
 ## Player Profiles
@@ -269,7 +246,7 @@ Devin V exemplifies quiet growth. He started at **1631 Elo in January** and fini
 <a name="profiles-chess-loren-s"></a>
 #### ♟️ Loren S (Club Deputy)
 
-Loren S was one of the busiest players, logging **35 games** across the season. Though her scores were often modest, she’s the embodiment of fighting spirit. She finished June with a respectable **2/4 in the 5th Quad**, and ended around **1080 Elo**. Loren’s arrival has challenged Max S’ reputation as the fastest player at the club, a title that needs more time to be decided\!  Loren S has made her mark on the club since joining in December and we’re all thrilled that she has joined the Club’s team of Deputies.
+Loren S was one of the busiest players, logging **35 games** across the season. Though her scores were often modest, she’s the embodiment of fighting spirit. She finished June with a respectable **2/4 in the 5th Quad**, and ended around **1080 Elo**. Loren’s arrival has challenged Max S’ reputation as the fastest player at the club, a title that needs more time to be decided\! Many players have been caught-out by Loren's excellent grasp of attacking fundamentals and her polished (and bullet-ready) opening repertoire has stood her well throughout the season. Loren S has made her mark on the club since joining in December and we’re all thrilled that she has joined the Club’s team of Deputies.
 
 | Start Rating | Final Rating | Rating Change | Average Perf. | Score | Games | Record | Champ Points |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -299,7 +276,7 @@ Mike S is the “hidden gem” of the season. Competing mostly in the 3rd & 4th 
 <a name="profiles-chess-max-s"></a>
 #### ♟️ Max S
 
-Max S had a lively season. He bounced between 3rd & 4th Quads, producing respectable scores like **4/6 in March** and a **1592 performance rating**. Despite a couple of tough months, Max held his own and sits around **1280 Elo**. He’s a great example of a player developing through competitive games. He was unlucky not to stay in the 3rd Quad in May (after losing on tie-break) but Max is clearly outperforming his 2024 results. Max’s performance ratings suggest that he is currently under-rated, and it may take the Summer to reveal just how far his Chess has come.
+Max S had a lively season. He bounced between 3rd & 4th Quads, producing respectable scores like **4/6 in March** and a **1592 performance rating**. Despite a couple of tough months, Max held his own and sits around **1280 Elo**. He’s a great example of a player developing through competitive games. He was unlucky not to stay in the 3rd Quad in May (after losing on tie-break) but Max is clearly outperforming his 2024 results. His improvement (as change in elo) is matched only by Mike S's record-breaking rise. Max’s performance ratings in the Spring suggest that he is currently under-rated, and it may take the Summer to reveal just how far his Chess has come. 
 
 | Start Rating | Final Rating | Rating Change | Average Perf. | Score | Games | Record | Champ Points |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
