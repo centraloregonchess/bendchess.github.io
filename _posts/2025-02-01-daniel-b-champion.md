@@ -1,25 +1,25 @@
 ---
 layout: post
-title:  "Daniel B wins 2024 Chess Championship!"
+title:  "Daniel B wins 2024 Bend Chess Championship!"
 date:   2025-02-01 09:00:00 -0800
 author: Dean C
 thumbnail: "2024-daniel-b-champion.jpg"
-blurb: "Daniel B wins 2024's Chess Championship!"
+blurb: "Daniel B wins 2024's Bend Chess Championship!"
 categories: news quads winners
 ---
 <img class="page-banner" src="/assets/images/photos/2024-12-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!">
 
-# Daniel B wins the 2024 Chess Championship!
+# Daniel B is 2024's Bend Chess Champion!
 
-After a hard fought battle between Dean C, Zach C, and Daniel B, with the lead going back and forth all year, Dan pulled out the Club Championship by a single championship point. His enterprising play and exciting openings (the King's Gambit, mainline Najdorf, and the Benko gambit, among others, feature prominently in Dan’s repertoire) showed his class as one of the best chess players in Bend.
+After a hard fought battle between Dean C, Zach C, and Daniel B, with the lead going back and forth all year, Daniel finally clinched the Championship title by a single point. Daniel B's opening repertoire seems to prefer open-lines whatever the cost. That cost can be great but Daniel's rivals have been frustrated all-year by Daniel B's tenacity and ability to maintain tactical pressure even from *apparently* worse positions. The Quads can be a tumultuous battle-ground and Daniel B showed how attacking play & strong-nerves ultimately made this seem like a convincing and clean victory.
 
-Congratulations to another great year of chess and go in Bend! 
+Congratulations to another great year of Chess & Go in Bend! 
 
-## 2024 Competition Winners
+## 2024 Winners
 
 ### Champions
-*   2024 Club Chess Champion- *Daniel B*
-*   2024 Club Go Champion - *Leif W*
+*   2024 Bend Chess Champion- *Daniel B*
+*   2024 Bend Go Champion - *Leif W*
 
 ### All Other Contests
 *   2024 Chess Grand Prix - *Zach C*
