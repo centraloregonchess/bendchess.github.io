@@ -8,7 +8,8 @@ blurb: "All the info you need about chess ratings!"
 categories: news 
 ---
 <img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!" width="500" height="500">
-
+<img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="Quad Winners with their prizes">
+> Quad-Season Award winners with their prizes.
 
 # Chess Rating System
 All chess rating systems use some version of the Elo system. What is Elo? First, it is Elo and not ELO, as the system is named after its creator Arpad Elo, and is not an abbreviation of anything. Simply, Elo is a system used for calculating ratings in zero sum games such as chess or tennis, but it can be used for any closed system with direct wins and losses. 
