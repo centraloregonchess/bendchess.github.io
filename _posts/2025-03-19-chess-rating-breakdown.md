@@ -7,7 +7,6 @@ thumbnail: ""
 blurb: "All the info you need about chess ratings!"
 categories: news 
 ---
-<img class="page-banner" src="/assets/images/photos/2024-champion-daniel-b.jpg" alt="Daniel B finally gets his trophy!" width="500" height="500">
 <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="Quad Winners with their prizes">
 > Quad-Season Award winners with their prizes.
 
