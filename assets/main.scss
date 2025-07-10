@@ -91,6 +91,11 @@ ul.post-list img.thumbnail {
     border-radius: 2px;
 }
 
+article table {
+  max-width: 100%;
+  overflow: auto;
+}
+
 p.rss-subscribe {
     margin-top: 2ex;
     clear: both;

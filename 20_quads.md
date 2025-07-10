@@ -24,48 +24,28 @@ from inactive opponents. No harm done, **[Rule #1](#rules) is to have fun!**
 Go Quads &amp; Chess Quads work slightly differently.
 
 
-### Chess Quads &amp; Chess Championship
+### Chess Quads
 Quads are rank-ordered and the top Quad is called the Championship. The winner
 of each Quad will get promoted to the Quad above. The last-place finisher will
 get demoted to the Quad below. As players join/leave promotions & demotions may
 happen differently to balance the Quads.
-
-Quad winners score points towards the Club Chess Championship according to which
-Quad is won and where they place:
-
-|Quad|Position|Points|
-|---|---|---|
-|Championship|1st|5|
-| |2nd|3|
-| |3rd|2|
-|Challenger|1st|3|
-| |2nd|2|
-| |3rd|1|
-|Any other Quad|1st|2|
-| |2nd|1|
 
 
 ### Go Quads
 Quads are rank-ordered and grouped according to strength, with the goal of
 keeping opponent's within 9 stones of each other. All games are played with a
 handicap to make the games even. If you rank-up, you will be promoted to a more
-suitable Quad. Go Quads have fewer participants than Chess Quads, so we're kind
-of free-wheeling it. For now, Go Quads last 3-months, with 3 games to be played
-versus each opponent in that time.
+suitable Quad. Go Games naturally take longer than Chess games which presents
+an extra challenge for playing all of your games. To accommodate this, **Go Quads
+are played over a 3-month period, with 3 games versus each opponent** in that time.
 
-Quad winners score points towards the Club Go Championship according to the
-strength of the Quad they won:
 
-|Quad|Position|Points|
-|---|---|---|
-|Dan|1st|5|
-| |2nd|3|
-| |3rd|2|
-|Single-Digit Kyu|1st|3|
-| |2nd|2|
-| |3rd|1|
-|Double-Digit Kyu|1st|2|
-| |2nd|1|
+### Super-Quads
+Summer & Fall are outside of Quad-Season and are more casual. Our members compete
+in low-stakes **Super-Quads**, a huge (and silly) all-play-all tournament that
+lasts 3-months. These events allow the entire club to play together while
+letting our members enjoy the summer and holidays without the pressure of
+more-serious competitive play.
 
 
 ## Schedule
@@ -112,6 +92,28 @@ on tie-breaks!
 > The players finish according to their position in the previous Grand-Prix.
 
 
+## Championships
+Quad-Season decides that year's Chess & Go Champions. Players compete in a
+season-long race from January-thru-June by winning Championship Points. At the
+end of the season, the player with the most Championship points wins the title.
+(The Championship will be decided by a play-off if two-or-more players are tied
+on Championship points.)
+
+Players earn Championship points according to where the placed in their Quad
+and which Quad they played in:
+
+|Chess Quad|Go Quad|Position|Points|
+|---|---|---|---|
+|Championship|Dan|1st|5|
+| | |2nd|3|
+| | |3rd|2|
+|Challenger|SDK|1st|3|
+| | |2nd|2|
+| | |3rd|1|
+|*Any*|SDK|1st|2|
+| | |2nd|1|
+
+
 ## Grand-Prix
 Each quarter Quad players compete in the Grand-Prix. At the end of the Quarter,
 the player to accumulate the most Grand-Prix points over 3-months wins. (The
@@ -123,12 +125,12 @@ Grand-Prix points for each month are calculated as:
 
 There are four Grand-Prix races each year, one for each season:
 
-|Grand-Prix|Runs for|Tie-Breaks for|
-|---|---|
-|**Winter**|January-March|Spring|
-|**Spring**|April-June|Summer|
-|**Summer**|July-September|Holiday|
-|**Holiday**|October-December|Winter|
+|Grand-Prix|Start|End|Used as Tie-Break|
+|---|---|---|---|
+|**Winter**|January|March|Spring⤵️|
+|**Spring**|April|June|Summer⤵️|
+|**Summer**|July|September|Holiday⤵️|
+|**Holiday**|October|December|Winter⤵️|
 
 **You may only win one Grand-Prix per year.** Previous winners are ommited from
 subsequent standings, although they still earn points for tie-break purposes.
@@ -142,8 +144,8 @@ year is 2nd.
     <dd>Winning any Quad earns you promotion &amp; Championship points.</dd>
     <dt>Grand-Prix Winners</dt>
     <dd>Winning the Grand-Prix earns you the Grand-Prix Mug (and a better tie-break during the next Grand-Prix.)</dd>
-    <dt>Club Championship</dt>
-    <dd>Once Quad-Season ends, the player with the most Championship points wins the Club Champion title & a trophy.</dd>
+    <dt>Championship</dt>
+    <dd>Once Quad-Season ends, the player with the most Championship points wins the Champion title & a trophy.</dd>
 </dl>
 
 See the [Club History](/about/#club-history) for a record of our Champions and Grand-Prix winners.
