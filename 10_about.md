@@ -11,8 +11,8 @@ permalink: /about/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 ## The Club
-<img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
-We are an informal club that meets to play Chess & Go. We meet one evening per
+<img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
+We are a casual club that meets to play Chess & Go. We meet one evening per
 week at a fun, lively (and seasonal) venue with access to food & drink. We try
 to cultivate a light-hearted atmosphere and a welcoming scene for beginners &amp;
 experts alike.
@@ -20,13 +20,38 @@ experts alike.
 Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 
 
-## The Venues
+### Join the Club
+We're a casual club that runs an optional month-long [Quads](/quads/) competition.
+Before signing-up to Quads you'll be encouraged to attend a few club-nights
+and get a feel for how the club works.
+
+1.  [Join the MeetUp](https://www.meetup.com/central-oregon-chess/) so that you get notified of cancellations etc.
+2.  Attend a club-night and play some games!
+3.  Once at the club, join our Discord &amp; Mailing list (details at venue) to keep up-to date!
+
+
+### The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
 *   **Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
     Wednesdays, 6pm**, join us for Chess & Go by the river at our Summer venue.
 *   [Crux Fermentation Project][crux] is our Winter venue and hosts our Quad-Seasons
     October-thru-June.
+
+
+### What to expect
+Boards, pieces &amp; clocks are provided! Look for others, introduce yourself
+and challenge someone to a game! It's a no-pressure, unrated, relaxed meetup
+where you can sit down and play anyone. Food & drink is usually accessible
+either through local vendors or the venue itself.
+
+
+## Quads
+Quads run over the full month and are not one-night events. As such, we suggest
+that only regular members sign-up for Quads.
+
+Please speak to Dean about joining [Quads](/quads/). There is a sign-up sheet
+available for members on club-nights.
 
 
 ## Staff
@@ -168,6 +193,7 @@ important events.
 </dl>
 
 ### Timeline
+<img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
 <dl>
     <dt>July 2025</dt>
     <dd>The club returns to The Commons Cafe &amp; Taproom for the Summer, restoring the Summer &amp; Winter venue switches.</dd>

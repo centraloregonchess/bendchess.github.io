@@ -59,21 +59,32 @@ img.page-banner {
     border-radius: 2px;
 }
 
-img.page-context-left {
+.page-context-left, .page-context-right {
     width: 40%;
     margin: 1ex;
-    float: left;
     border: 3px solid black;
     border-radius: 2px;
 }
 
-img.page-context-right {
-    width: 40%;
-    margin: 1ex;
-    float: right;
+blockquote.page-context-left, blockquote.page-context-right {
+  padding: 0;
+  border: None;
+  img {
     border: 3px solid black;
     border-radius: 2px;
+  }
 }
+
+.page-context-left {
+    float: left;
+    margin-right: 1.5ex !important;
+}
+
+.page-context-right {
+    float: right;
+    margin-left: 1.5ex !important;
+}
+
 
 ul.post-list li {
     float: left;

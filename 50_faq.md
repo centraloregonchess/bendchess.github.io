@@ -10,61 +10,49 @@ permalink: /faq/
 > **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
 > Wednesdays 6pm.** (See <a href="https://www.meetup.com/central-oregon-chess/">The MeetUp</a> for changes.)
 
-## Join the Club
-<img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
-We're a casual club that runs an optional month-long [Quads](/quads/) competition.
-Before signing-up to Quads you'll be encouraged to attend a few club-nights
-and get a feel for how the club works.
-
-1.  [Join the MeetUp](https://www.meetup.com/central-oregon-chess/) so that you get notified of cancellations etc.
-2.  Attend a club-night and play some games!
-3.  Once at the club, join our Discord &amp; Mailing list (details at venue) to keep up-to date!
-
-
-## Club Nights
-We meet weekly but the night and the venue changes depending on the time of
-year. Currently our summer venue is The Commons, while Crux Fermentation Project hosts us the rest of the year. In rare cases a club-night is cancelled and non-members should check
-[the MeetUp][meetup] to confirm that the event is still on. Club-members
-will get notified via Discord and/or email.
-
-
-### What to expect
-Boards, pieces &amp; clocks are provided! Look for others, introduce yourself
-and challenge someone to a game! It's a no-pressure, unrated, relaxed meetup
-where you can sit down and play anyone. Food & drink is usually accessible
-either through local vendors or the venue itself.
-
-
-## Quads
-Quads run over the full month and are not one-night events. As such, we suggest
-that only regular members sign-up for Quads.
-
-Please speak to Dean about joining [Quads](/quads/). There is a sign-up sheet
-available for members on club-nights.
-
-
-<h3>FAQ</h3>
 <dl>
-<dt>Are Children welcome?<dt>
-<dd>While the club is primarily aimed at adults, juniors are always welcome! Parents should be aware that the average age at the club is probably around 30, and that on most (but not all) nights their child may be the youngest player. In practice, young people do really well here when they aren't daunted by adults. Everyone just wants to play, and its always a joy to see young people exploring the game. Young people can and have thrived here - its a wholesome and fun atmosphere. But this is a competitive club, and competition is fierce!</dd>
-<dt>Do I need to play Chess or Go already in order to attend the club? </dt>
-<dd>Players of all skill-levels are welcome. If you're completely new to the game then it is worth doing some preparation before you come. For Chess, try the <a href="https://lichess.org/learn">lichess.org/learn</a> pages. For Go, we recommend the <a href="https://way-to-go.gitlab.io/">Interactive Way to Go</a>.</dd>
-<dt>I’m a beginner, are there other players at my skill-level?</dt>
-<dd>Beginners are rarely alone at the club! However, playing club-level Chess & Go makes people stronger over time. As a beginner you can expect to feel like club-level play has a steep learning curve, but you will find the atmosphere welcoming and, once you get a few wins under your belt, rather competitive too!</dd>
-<dt>Other chess clubs that I’ve been to have been set up for serious games that take hours, is the club going to be like that? </dt>
-<dd>Nope! We strive to have a casual and supportive atmosphere where everyone feels comfortable popping in for a game or two. Expect to hear some friendly banter about the latest swindle that was just pulled off alongside discussions of what the newest stockfish recommends in the main line of the fantasy variation of the Caro-Kann. While we do host competitive games through the <a href="/quads/">Quads</a> most games played at the club are casual and a long Chess game may take ~25 minutes.</dd>
-<dt>Do I need to bring anything? </dt>
-<dd>The club provides boards & clocks. For Chess, we usually have plenty of equipment (but bring you're own if you have a strong preference.) Go equipment is more sparse and we can run out of Go boards on busy nights (also, a byo-yomi clock always helps!)</dd>
-<dt>How do I find someone to play? </dt>
-<dd>You are welcome to challenge anyone who isn’t currently playing a game. The more people you challenge, the better time you will have! If you’re unsure about who to ask, please reach out to a club member wearing a lanyard, who should be able to help assess your skills and pair you with someone close to your skill level.</dd>
-<dt>I’ve never played with a clock before, is that required? </dt>
-<dd>Playing with a clock isn’t required, but is encouraged! Don't worry about clocks - just ask your first opponent to show you how it works and they'll feel natural already by the end of the evening. For complete beginners we understand that clocks aren't appropriate - again, there's no need to worry. Most regular members play games with clocks and once you get a handle on the basics it will seem quite natural. Timed games promote a competitive atmosphere and are good practice for competition. If you decide to join <a href="/quads/">Quads</a>, then Chess games play 10m+5s and Go games play 3m+10s or 5m+5x30s.</dd>
-<dt>Is it okay to eat or drink while playing? </dt>
-<dd>Certainly, we rely on our hosts to allow the club to run, and buying a drink or some food is a great way to thank them and help support the club's future.</dd>
-<dt>What do I do after I finish a game? </dt>
-<dd>You are welcome and encouraged to do some analysis of the game with your opponent. Rematches usually switch colors for chess, or you can find another opponent. The more people you challenge, the better time you will have!</dd>
-<dt>What are Quads? </dt>
-<dd>We host a monthly competition that regular members participate in throughout the month. Most games played at the club are casual, but often you will see a *Quad Game* sign next to a board - that game is part of the competition, so we try not to disturb them. If you'd like to learn more, check out the <a href="/quads/">Quads</a> page or ask when you visit the club!</dd>
-<dt>Do you change venues?</dt>
-<dd>Yes, our winter venue, Crux, hosts us for most of the year. Our summer venue, The Commons, hosts us for casual play from July-September.</dd>
-
+  <blockquote class="page-context-left">
+    <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners." />
+    <p>Beginners &amp; Champions stand side-by-side with their <a href="/news/quads/2025/07/09/season-roundup-2025.html#2025-quad-season-awards">Quad-Season 2025 Awards</a></p>
+  </blockquote>
+  <dt>How can I tell whether I will enjoy the club?</dt>
+  <dd>There is a strong social element at the club and we meet at local breweries or bars to promote the club's social-side. You can ofcourse opt-in/out of the social-side as much as you prefer but there's no getting around the fact that Club-level play is challenging. Games can be especially competitive when players are competing for Championship points or promotion in tournament play. If you enjoy these games and enjoy exploring/competing with them, then this is likely the club for you!</dd>
+  <dt>My child is interested in Chess/Go. Are there youth-programs or tutoring available?</dt>
+  <dd>Parents should consult the <a href="https://nwchess.com/scholastic/index.htm">North-West Chess/Scholastic</a> page for local youth-programs or resources. <em>Bend Chess &amp; Go Club does not offer any such programs.</em></dd>
+  <dt>Are children welcome?</dt>
+  <dd>While <em>the club is primarily aimed at adults</em>, juniors are always welcome! Parents should be aware that the average age at the club is probably around 30, and that on most (but not all) nights their child may be the youngest player. In practice, young people do really well here when they are undaunted by adults. Everyone just wants to play, and its always a joy to see young people exploring the game. Young people can and have thrived here - its a wholesome and fun atmosphere. But this is a competitive club, and competition is fierce!</dd>
+  <dt>Do you do Chess Coaching?</dt>
+  <dd>No, Bend Chess &amp; Go Club meets weekly to play and to compete. We do not offer coaching or tutoring.</dd>
+  <dt>I'm a beginner, are there other players at my skill-level?</dt>
+  <dd>Most likely, yes. But understand that <em>with Club-level play beginners become stronger players</em> so the current-pool of beginners is always changing. Each new-member got themselves to a certain point with the game before deciding to attend a club and if you are concerned with your level, welcome to the Club! <em>Don't stay away! Come and play!</em></dd>
+  <dt>Do I need to know how to play Chess or Go already before attending?</dt>
+  <dd>Access to Chess &amp; Go resources are widely available these days. Taking a little bit of time in advance to learn Chess or Go will reward you with some independence when you visit and you should examine the next questions!</dd>
+  <blockquote class="page-context-right">
+    <img src="/assets/images/photos/2024-08-go-players-playing-rengo.jpg" alt="Go Players gathered around a game of Rengo at our Winter venue, Crux" />
+    <p>Go Players enjoy a rare game of Rengo at our Winter venue, Crux</p>
+  </blockquote>
+  <dt>What is Go?</dt>
+  <dd>Go is an ancient board game from East Asia. It is played by placing Black &amp; White stones on a grid. Each player jostles for control of the board using their stones to surround territory, all while trying to prevent those stones getting surrounded (and therefore captured.) Anyone unfamiliar with the game might enjoy <a href="https://www.youtube.com/watch?v=WXuK6gekU1Y">Google DeepMind's AlphaGo documentary</a> which offers a <em>cinematic</em> introduction to the game.</dd>
+  <dt>How can I learn Go?</dt>
+  <dd>For a practical start towards learning the rules, we recommend the <a href="https://way-to-go.gitlab.io/">Interactive Way to Go</a>. Looking further, players are encouraged to the <a href="https://online-go.com/learn-to-play-go">Online Go Server's Learning Pathway</a>.</dd>
+  <dt>How can I learn Chess?</dt>
+  <dd><a href="https://youtube.com/playlist?list=PLQKBpQZcRycrvUUxLdVmlfMChJS0S5Zw0&si=pzXJaBGqOynIT9fZ">Robert Ramirez's Chess Course</a> is an excellent free-resource for anyone prefering video. Anyone looking for a more interactive guide should start with <a href="https://lichess.org/learn">lichess.org/learn</a> pages - you can also play real opponents on that site and guage your level.</dd>
+  <dt>Do I need to bring anything?</dt>
+  <dd>The club provides boards &amp; clocks. For Chess, we usually have plenty of equipment (but bring you're own if you have a strong preference.) Go equipment is more sparse and we can run out of Go boards on busy nights.</dd>
+  <dt>I’ve never played with a clock before, is that required?</dt>
+  <dd>Clocks are a normal part of club-level play but don't be deterred! It's important to limit the duration of games when our time at the club is limited and you will quickly become comfortable with the clock. When playing with a clock each player has a pool of time that gradually ticks-down whenever it is their turn. Time may be added at the end of each move (called a time "increment") or in the case of Go games, time is often restored at the end of each turn (called a time "period") and so the clock serves as a pace-setter rather than a punicious addition. Pressure is added, of course, and complete-beginners often play without clocks until they develop the board-vision to play under such conditions. We all understand this and so most members will gladly play without a clock if you'd prefer a more relaxed game.</dd>
+  <dt>What time-control is played at the club?</dt>
+  <dd>Chess games are usually 10+5 (10 minutes with a 5-second increment) and Go games are usually 5m+30sx5 (5 minutes with 5x 30-second periods.) In practice, each Chess game lasts ~25 minutes and each Go game lasts ~30 minutes. <strong>Note:</strong> any game played outside of competition can be played with any time-control and members often experiment with faster games. Slower games are much rarer unless playing some sort of teaching game.</dd>
+  <dt>Is it okay to eat or drink while playing? </dt>
+  <dd>Certainly, we rely on our hosts to allow the club to run, and buying a drink or some food is a great way to thank them and help support the club's future.</dd>
+  <dt>How do I find someone to play? </dt>
+  <dd>You are welcome to challenge anyone who isn’t currently playing a game. The more people you challenge, the better time you will have! If you’re unsure about who to ask, please reach out to a club member wearing a lanyard, who should be able to help assess your skills and pair you with someone close to your skill level.</dd>
+  <dt>What do I do after I finish a game? </dt>
+  <dd>You are welcome and encouraged to do some analysis of the game with your opponent. Rematches usually switch colors for chess, or you can find another opponent. <em>The more people you challenge, the better time you will have!</em></dd>
+  <dt>What are Quads? </dt>
+  <dd>We host a monthly competition that regular members participate in throughout the month. Most games played at the club are casual, but often you will see a *Quad Game* sign next to a board - that game is part of the competition, so we try not to disturb them. If you'd like to learn more, check out the <a href="/quads/">Quads</a> page or ask when you visit the club!</dd>
+  <dt>Do you change venues?</dt>
+  <dd>Yes, our winter venue, Crux, hosts us for most of the year. Our summer venue, The Commons, hosts us for casual play from July-September.</dd>
+  <dt>My Question isn't answered here!</dt>
+  <dd>Try our <a href="/about/">About</a> page, enquire at <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a> or visit us one club-night and ask in-person!</dd>
+</dl>
