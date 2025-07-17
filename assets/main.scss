@@ -2,17 +2,8 @@
 ---
 @import "minima";
 
-#contents {visibility: hidden}
-
-#contents + ul {
-  width: 40ex;
-  float: right;
-  ul { margin-left: 1em; }
-}
-
 .site-title, h1, h2, h3, h4, h5, h6 {
     font-family: Serif;
-    clear: both;
 }
 
 .site-title {
@@ -23,16 +14,8 @@
     background-position-y: center;
 }
 
-article {
-  h2, h3, h4, h5, h6 {
-    margin-top: 2em;
-    margin-bottom: 0.5em;
-    border-top: 1px solid #ddd;
-  }
-}
-
-h2 {
-    border-top: 1px solid #aaa;
+article :is(h2, h3, h4, h5, h6) {
+  margin-bottom: 0.5em;
 }
 
 dl {
@@ -66,6 +49,21 @@ img.page-banner {
     border-radius: 2px;
 }
 
+#contents-js {
+    width: auto; max-width: 37ex;
+    margin: 0.5ex; padding: 0.3ex;
+    padding-right: 2ex;
+    border: 2px solid silver;
+    border-radius: 1ex;
+    > ul {
+      margin-left: 2.7ex;
+      margin-bottom: 0;
+    }
+    a {
+      text-decoration: none;
+    }
+}
+
 blockquote.page-context-left, blockquote.page-context-right {
   padding: 0;
   border: None;
@@ -77,12 +75,14 @@ blockquote.page-context-left, blockquote.page-context-right {
 
 .page-context-left {
     float: left;
+    margin-left: 0;
     margin-right: 1.5ex !important;
 }
 
 .page-context-right {
     float: right;
     margin-left: 1.5ex !important;
+    margin-right: 0;
 }
 
 
@@ -103,7 +103,7 @@ ul.post-list img.thumbnail {
 }
 
 article table {
-  max-width: 100%;
+  max-width: 90vw;
   overflow: auto;
 }
 
