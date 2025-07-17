@@ -10,20 +10,23 @@ permalink: /about/
 > **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
+<script type="module" src="/assets/scripts/contents.js"></script>
+<aside
+  id="contents-js"
+  class="page-context-left">
+</aside>
+
 ## The Club
-<img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
-We are a casual club that meets to play Chess & Go. We meet one evening per
-week at a fun, lively (and seasonal) venue with access to food & drink. We try
-to cultivate a light-hearted atmosphere and a welcoming scene for beginners &amp;
-experts alike.
+We are a casual club that meets to play Chess & Go. We meet one evening per week at a fun, lively (and seasonal) venue with access to food & drink.
+The Club runs an optional month-long [Quads](/quads/) competition but most games played at the Club are casual.
+The result is a thriving, light-hearted Club with a strong competitive streak.
 
 Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 
 
 ### Join the Club
-We're a casual club that runs an optional month-long [Quads](/quads/) competition.
-Before signing-up to Quads you'll be encouraged to attend a few club-nights
-and get a feel for how the club works.
+<img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
+Many new members want to sign-up to Quads immediately but there's a non-cometitive side to the game too! Before signing-up to Quads you'll be encouraged to attend a few club-nights settle into the Club and see if it's for you.
 
 1.  [Join the MeetUp](https://www.meetup.com/central-oregon-chess/) so that you get notified of cancellations etc.
 2.  Attend a club-night and play some games!
@@ -120,21 +123,21 @@ important events.
 
 #### Chess Champions
 <dl>    
-    <dt>2025 Chess Champion</dt>
+    <dt>2025 Bend Chess Champion</dt>
     <dd class="with-background-icon people-default">Blake S</dd>
-    <dt>2024 Chess Champion</dt>
+    <dt>2024 Bend Chess Champion</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
-    <dt>2023 Chess Champion</dt>
+    <dt>2023 Bend Chess Champion</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
-    <dt>2022 Chess Champion</dt>
+    <dt>2022 Bend Chess Champion</dt>
     <dd class="with-background-icon people-joe-l">Joe L</dd>
 </dl>
 
 #### Go Champions
 <dl>    
-    <dt>2025 Go Champion</dt>
+    <dt>2025 Bend Go Champion</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
-    <dt>2024 Go Champion</dt>
+    <dt>2024 Bend Go Champion</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
 </dl>
 
