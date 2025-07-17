@@ -7,6 +7,15 @@ thumbnail: "2025-07-go-players-playing-rengo.jpg"
 blurb: "Your guide to the 2025 Quad-Season Awards & Player Profiles" 
 categories: news quads
 ---
+<style>
+#contents {visibility: hidden}
+
+#contents + ul {
+  width: 40ex;
+  float: right;
+  ul { margin-left: 1em; }
+}
+</style>
 
 ##### Contents
 
