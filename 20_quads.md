@@ -7,6 +7,13 @@ permalink: /quads/
 <img class="page-banner" title="Club members play Chess & Go one club-night at Crux, our winter venue." src="/assets/images/photos/2022-12-crux.jpg">
 > Quads offer our members regular, competitive Chess & Go with a flexible schedule.
 
+<script type="module" src="/assets/scripts/contents.js"></script>
+<aside
+  id="contents-js"
+  data-contentsjs-scope=".post-content"
+  class="page-context-right">
+</aside>
+
 ## Pairings & Results
 See the [Google Doc][googledoc].
 
