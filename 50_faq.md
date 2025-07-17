@@ -10,11 +10,18 @@ permalink: /faq/
 > **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
 > Wednesdays 6pm.** (See <a href="https://www.meetup.com/central-oregon-chess/">The MeetUp</a> for changes.)
 
+<blockquote class="page-banner">
+<img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners." />
+<p>Beginners &amp; Champions stand side-by-side with their <a href="/news/quads/2025/07/09/season-roundup-2025.html#2025-quad-season-awards">Quad-Season 2025 Awards</a></p>
+</blockquote>
+<script type="module" src="/assets/scripts/contents.js"></script>
+<aside
+  id="contents-js"
+  data-contentsjs-scope=".post-content"
+  data-contentsjs-jump="dt"
+  class="page-context-right">
+</aside>
 <dl>
-  <blockquote class="page-context-left">
-    <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners." />
-    <p>Beginners &amp; Champions stand side-by-side with their <a href="/news/quads/2025/07/09/season-roundup-2025.html#2025-quad-season-awards">Quad-Season 2025 Awards</a></p>
-  </blockquote>
   <dt>How can I tell whether I will enjoy the club?</dt>
   <dd>There is a strong social element at the club and we meet at local breweries or bars to promote the club's social-side. You can ofcourse opt-in/out of the social-side as much as you prefer but there's no getting around the fact that Club-level play is challenging. Games can be especially competitive when players are competing for Championship points or promotion in tournament play. If you enjoy these games and enjoy exploring/competing with them, then this is likely the club for you!</dd>
   <dt>My child is interested in Chess/Go. Are there youth-programs or tutoring available?</dt>
@@ -28,8 +35,8 @@ permalink: /faq/
   <dt>Do I need to know how to play Chess or Go already before attending?</dt>
   <dd>Access to Chess &amp; Go resources are widely available these days. Taking a little bit of time in advance to learn Chess or Go will reward you with some independence when you visit and you should examine the next questions!</dd>
   <blockquote class="page-context-right">
-    <img src="/assets/images/photos/2024-08-go-players-playing-rengo.jpg" alt="Go Players gathered around a game of Rengo at our Winter venue, Crux" />
-    <p>Go Players enjoy a rare game of Rengo at our Winter venue, Crux</p>
+    <img src="/assets/images/photos/2024-08-go-players-playing-rengo.jpg" alt="Go Players gathered around a rare game of Rengo (four-player Go) at our Winter venue, Crux" />
+    <p>Go-Players enjoying a game of Rengo (four-player Go) at our Winter venue, Crux</p>
   </blockquote>
   <dt>What is Go?</dt>
   <dd>Go is an ancient board game from East Asia. It is played by placing Black &amp; White stones on a grid. Each player jostles for control of the board using their stones to surround territory, all while trying to prevent those stones getting surrounded (and therefore captured.) Anyone unfamiliar with the game might enjoy <a href="https://www.youtube.com/watch?v=WXuK6gekU1Y">Google DeepMind's AlphaGo documentary</a> which offers a <em>cinematic</em> introduction to the game.</dd>
