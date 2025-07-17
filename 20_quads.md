@@ -10,8 +10,7 @@ permalink: /quads/
 <script type="module" src="/assets/scripts/contents.js"></script>
 <aside
   id="contents-js"
-  data-contentsjs-scope=".post-content"
-  class="page-context-right">
+  class="page-context-left">
 </aside>
 
 ## Pairings & Results
@@ -109,16 +108,16 @@ on Championship points.)
 Players earn Championship points according to where the placed in their Quad
 and which Quad they played in:
 
-|Chess Quad|Go Quad|Position|Points|
-|---|---|---|---|
-|Championship|Dan|1st|5|
-| | |2nd|3|
-| | |3rd|2|
-|Challenger|SDK|1st|3|
-| | |2nd|2|
-| | |3rd|1|
-|*Any*|SDK|1st|2|
-| | |2nd|1|
+|Chess/Go Quad|Pos|Points|
+|---|---|---|
+|Championship/Dan|1st|5|
+| |2nd|3|
+| |3rd|2|
+|Challenger/SDK|1st|3|
+| |2nd|2|
+| |3rd|1|
+|*Any*/DDK|1st|2|
+| |2nd|1|
 
 
 ## Grand-Prix
@@ -132,12 +131,12 @@ Grand-Prix points for each month are calculated as:
 
 There are four Grand-Prix races each year, one for each season:
 
-|Grand-Prix|Start|End|Used as Tie-Break|
+|Grand-Prix|Start|End|
 |---|---|---|---|
-|**Winter**|January|March|Spring⤵️|
-|**Spring**|April|June|Summer⤵️|
-|**Summer**|July|September|Holiday⤵️|
-|**Holiday**|October|December|Winter⤵️|
+|**Winter**|Jan|Mar|
+|**Spring**|Apr|Jun|
+|**Summer**|Jul|Sep|
+|**Holiday**|Oct|Dec|
 
 **You may only win one Grand-Prix per year.** Previous winners are ommited from
 subsequent standings, although they still earn points for tie-break purposes.
