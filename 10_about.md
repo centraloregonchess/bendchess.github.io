@@ -10,11 +10,7 @@ permalink: /about/
 > **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
-<script type="module" src="/assets/scripts/contents.js"></script>
-<aside
-  id="contents-js"
-  class="page-context-left">
-</aside>
+<aside data-contentsjs class="page-context-left"></aside>
 
 ## The Club
 We are a casual club that meets to play Chess & Go. We meet one evening per week at a fun, lively (and seasonal) venue with access to food & drink.
