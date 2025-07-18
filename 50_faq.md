@@ -14,16 +14,11 @@ permalink: /faq/
 <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners." />
 <p>Beginners &amp; Champions stand side-by-side with their <a href="/news/quads/2025/07/09/season-roundup-2025.html#2025-quad-season-awards">Quad-Season 2025 Awards</a></p>
 </blockquote>
-<script type="module" src="/assets/scripts/contents.js"></script>
-<aside
-  id="contents-js"
-  data-contentsjs-scope=".post-content"
-  data-contentsjs-jump="dt"
+<aside data-contentsjs
+  data-tags="dt"
   class="page-context-right">
 </aside>
 <dl>
-  <dt>How can I tell whether I will enjoy the club?</dt>
-  <dd>There is a strong social element at the club and we meet at local breweries or bars to promote the club's social-side. You can ofcourse opt-in/out of the social-side as much as you prefer but there's no getting around the fact that Club-level play is challenging. Games can be especially competitive when players are competing for Championship points or promotion in tournament play. If you enjoy these games and enjoy exploring/competing with them, then this is likely the club for you!</dd>
   <dt>My child is interested in Chess/Go. Are there youth-programs or tutoring available?</dt>
   <dd>Parents should consult the <a href="https://nwchess.com/scholastic/index.htm">North-West Chess/Scholastic</a> page for local youth-programs or resources. <em>Bend Chess &amp; Go Club does not offer any such programs.</em></dd>
   <dt>Are children welcome?</dt>
