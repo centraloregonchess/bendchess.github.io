@@ -19,7 +19,7 @@ permalink: /faq/
   class="page-context-right">
 </aside>
 <dl>
-  <dt>My child is interested in Chess/Go. Are there youth-programs or tutoring available?</dt>
+  <dt> My child is interested in Chess/Go. Are there youth-programs or tutoring available?</dt>
   <dd>Parents should consult the <a href="https://nwchess.com/scholastic/index.htm">North-West Chess/Scholastic</a> page for local youth-programs or resources. <em>Bend Chess &amp; Go Club does not offer any such programs.</em></dd>
   <dt>Are children welcome?</dt>
   <dd>While <em>the club is primarily aimed at adults</em>, juniors are always welcome! Parents should be aware that the average age at the club is probably around 30, and that on most (but not all) nights their child may be the youngest player. In practice, young people do really well here when they are undaunted by adults. Everyone just wants to play, and its always a joy to see young people exploring the game. Young people can and have thrived here - its a wholesome and fun atmosphere. But this is a competitive club, and competition is fierce! <strong>Do you want to start a Child-friendly Club?</strong> Get in touch and we will try to help: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a></dd>
