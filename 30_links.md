@@ -7,7 +7,7 @@ permalink: /links/
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
-> **We meet weekly at <a href="https://maps.app.goo.gl/jCARdSFEpujv4Z4w6">The Commons Cafe &amp; Taproom</a>,
+> **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 
 ## For Members 
