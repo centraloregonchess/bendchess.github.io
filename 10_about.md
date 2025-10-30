@@ -32,10 +32,8 @@ Many new members want to sign-up to Quads immediately but there's a non-cometiti
 ### The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Venue: <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a>
-    Wednesdays, 6pm**, join us for Chess & Go by the river at our Summer venue.
-*   [Crux Fermentation Project][crux] is our Winter venue and hosts our Quad-Seasons
-    October-thru-June.
+*   **Venue: [Crux Fermentation Project][crux] Wednesdays, 6pm**, join us for Chess & Go at our Winter venue, where we host our Quad-Seasons October-thru-June.
+*   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a> is our Summer venue, where we play during our off-season.
 
 
 ### What to expect
