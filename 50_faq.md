@@ -8,7 +8,7 @@ permalink: /faq/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Thursdays from 6pm-9pm** 
 
 <blockquote class="page-banner">
 <img class="page-banner" src="/assets/images/photos/2025-07-winners-2025.jpg" alt="This season's award winners." />
