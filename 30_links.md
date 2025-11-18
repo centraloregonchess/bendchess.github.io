@@ -8,7 +8,7 @@ permalink: /links/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Thursdays 6pm-9pm.** (See [the MeetUp][meetup] for changes.)
 
 ## For Members 
 
@@ -20,7 +20,6 @@ See [Linktr.ee/bendchess](https://linktr.ee/bendchess) for Club Links.
 
 |Name|City|Games|Meeting|
 |---|---|---|---|---|
-|Redmond Chess Club|Redmond|Chess|Tuesdays&nbsp;6pm<br>See [MeetUp][meetup]|
 |Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm<br>See [MeetUp][meetup]|
 |Madras Chess Club|Madras|Chess|Thursdays&nbsp;6pm<br>See [MeetUp][meetup]|
 |Prineville Chess Club|Prineville|Chess|Fridays&nbsp;5pm<br>See [MeetUp][meetup]|
