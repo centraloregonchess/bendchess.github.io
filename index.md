@@ -14,7 +14,7 @@ layout: home
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 -->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Thursdays 6pm-9pm** (See [the MeetUp][meetup] for changes.)
 
 
 [meetup]: https://www.meetup.com/bend-chess-go-club/
