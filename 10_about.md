@@ -8,7 +8,7 @@ permalink: /about/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
+> Thursdays from 6pm-9pm.** (See [the MeetUp][meetup] for changes.)
 
 <aside data-contentsjs class="page-context-left"></aside>
 
@@ -32,7 +32,7 @@ Many new members want to sign-up to Quads immediately but there's a non-cometiti
 ### The Venues
 The Bend Chess &amp; Go Club exists because of the generosity of our hosts:
 
-*   **Venue: [Crux Fermentation Project][crux] Wednesdays, 6pm**, join us for Chess & Go at our Winter venue, where we host our Quad-Seasons October-thru-June.
+*   **Venue: [Crux Fermentation Project][crux] Thursdays, 6pm**, join us for Chess & Go at our Winter venue, where we host our Quad-Seasons October-thru-June.
 *   <a href="https://www.thecommonsbend.com/">The Commons Cafe &amp; Taproom</a> is our Summer venue, where we play during our off-season.
 
 
