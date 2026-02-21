@@ -8,7 +8,7 @@ permalink: /about/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Thursdays from 6pm-9pm.** (See [the MeetUp][meetup] for changes.)
+> Thursdays from 6pm-9pm.**
 
 <aside data-contentsjs class="page-context-left"></aside>
 
@@ -63,11 +63,11 @@ club. The organizer manages relationships with venues while the Web Officer hand
 online relationship &amp; media.
 
 <dl class="people">
-    <dt>Organizer & Chess Captain</dt>
+    <dt>Host</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Go Captain</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
-    <dt>Web Officer</dt>
+    <dt>Chess Captain</dt>
     <dd class="with-background-icon people-default">Zach C</dd>
     <dt>Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
@@ -88,8 +88,6 @@ fill-in for the Captains when they're absent.
     <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Loren S</dd>
     <dt>Deputy</dt>
-    <dd class="with-background-icon people-default">Luca P</dd>
-    <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Tommy I</dd>
     <dt>Deputy &amp; Web Officer</dt>
     <dd class="with-background-icon people-default">Zach C</dd>
@@ -105,6 +103,8 @@ Members come and go with the years - our staff are no different!
     <dd class="with-background-icon people-brad-h">Brad H</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-jeff-g">Jeff G</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-default">Luca P</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-zachary-b">Zachary B</dd>
 </dl>
@@ -136,22 +136,27 @@ important events.
 </dl>
 
 ### Grand Prix Winners
-<dl>
+<dl>    
+    <dt>2025-2026</dt>
+    <dd>
+        <b>Chess:</b>
+        <ul>
+            <li>Holiday: <em>Loren S</em>, 21.5 points.</li>
+            <li>Winter:</li>
+            <li>Spring:</li>
+        </ul>
+    </dd>
     <dt>2025</dt>
     <dd>
         <b>Chess:</b>
         <ul>
             <li>Winter: <em>Zach C</em>, 39 points.</li>
             <li>Spring: <em>Sophie S</em>, 36.5 points.</li>
-            <li>Summer:</li>
-            <li>Holiday:</li>
         </ul>
         <b>Go:</b>        
         <ul>
             <li>Winter: <em>Joe M</em>, 26 points.</li>
             <li>Spring: <em>Tommy I</em>, 24 points.</li>
-            <li>Summer:</li>
-            <li>Holiday:</li>
         </ul>
     </dd>
     <dt>2024</dt>
@@ -183,19 +188,23 @@ important events.
 
 ### Captains
 <dl>
-    <dt>Chess Captain, 2022-Present</dt>
-    <dd class="with-background-icon people-dean-c">Dean C</dd>
+    <dt>Chess Captain, 2025-Present</dt>
+    <dd class="with-background-icon people-dean-c">Zach C</dd>
     <dt>Go Captain, 2022-Present</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
+    <dt>Chess Captain, 2022-2025</dt>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
 </dl>
 
 ### Timeline
 <img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
 <dl>
+    <dt>Sept 2025</dt>
+    <dd class="with-background-icon people-default">Zach C becomes the second Chess Captain, taking over from Dean C.</dd>
     <dt>July 2025</dt>
     <dd>The club returns to The Commons Cafe &amp; Taproom for the Summer, restoring the Summer &amp; Winter venue switches.</dd>
     <dt>June 2025</dt>
-    <dd class="with-background-icon people-default">Blake S wins the club's 2025 Chess Championship</dd>
+    <dd class="with-background-icon people-default">Blake S wins the club's 2025 Chess Championship.</dd>
     <dd class="with-background-icon people-default">Carlin K wins the club's 2025 Go Championship.</dd>
     <dt>Jan 2025</dt>
     <dd>The club starts the new Jan-thru-June Quad schedule, with next-season's qualifiers planned for the fall.</dd>
