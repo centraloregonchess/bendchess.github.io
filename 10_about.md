@@ -63,12 +63,12 @@ club. The organizer manages relationships with venues while the Web Officer hand
 online relationship &amp; media.
 
 <dl class="people">
-    <dt>Host</dt>
-    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Go Captain</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
     <dt>Chess Captain</dt>
     <dd class="with-background-icon people-default">Zach C</dd>
+    <dt>Host</dt>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>USCF Tournament Director</dt>
@@ -85,12 +85,12 @@ fill-in for the Captains when they're absent.
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy &amp; TD</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
+    <dt>Deputy &amp; Host</dt>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Loren S</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Tommy I</dd>
-    <dt>Deputy &amp; Web Officer</dt>
-    <dd class="with-background-icon people-default">Zach C</dd>
 </dl>
 
 ### Staff Alumni
