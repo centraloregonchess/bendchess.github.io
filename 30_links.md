@@ -8,7 +8,7 @@ permalink: /links/
 > Wednesdays 6pm.**
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Thursdays 6pm-9pm.**
+> Wednesdays 6pm-9pm.**
 
 ## For Members 
 
