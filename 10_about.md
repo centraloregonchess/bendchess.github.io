@@ -8,7 +8,7 @@ permalink: /about/
 > Wednesdays 6pm.** (See [the MeetUp][meetup] for changes.)
 --->
 > **We meet weekly at <a href="https://www.cruxfermentation.com/">Crux Fermentation Project</a>,
-> Thursdays from 6pm-9pm.**
+> Wednesdays from 6pm-9pm.**
 
 <aside data-contentsjs class="page-context-left"></aside>
 
@@ -24,9 +24,9 @@ Enquiries: <a href="mailto:bendchess@gmail.com">bendchess@gmail.com</a>
 <img class="page-context-right" title="Club members playing Chess & Go at The Commons, our summer venue." src="/assets/images/photos/2022-06-the-commons.jpg">
 Many new members want to sign-up to Quads immediately but there's a non-cometitive side to the game too! Before signing-up to Quads you'll be encouraged to attend a few club-nights settle into the Club and see if it's for you.
 
-1.  [Join the MeetUp](https://www.meetup.com/central-oregon-chess/) so that you get notified of cancellations etc.
-2.  Attend a club-night and play some games!
-3.  Once at the club, join our Discord &amp; Mailing list (details at venue) to keep up-to date!
+1. Attend a club-night and play some games!
+2. Once at the club, join our Discord &amp; Mailing list (details at venue) to keep up-to date!
+ 
 
 
 ### The Venues
