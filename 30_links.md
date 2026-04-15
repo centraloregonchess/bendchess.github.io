@@ -22,7 +22,7 @@ See [Linktr.ee/bendchess](https://linktr.ee/bendchess) for Club Links.
 |---|---|---|---|---|
 |Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm|
 |Madras Chess Club|Madras|Chess|Thursdays&nbsp;6pm|
-|Prineville Chess Club|Prineville|Chess|Fridays&nbsp;5pm https://prinevillechess.com/|
+|Prineville Chess Club|Prineville|Chess|Fridays&nbsp;5pm |https://prinevillechess.com||
 
 ## Websites
 <dl>
