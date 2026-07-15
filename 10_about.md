@@ -57,17 +57,17 @@ of the club.
 
 
 ### Officers
-The club has organizers who manage the club day-to-day. We have two Club Captains,
-one for Chess and one for Go - the Captains drive engagement for each game at the
-club. The organizer manages relationships with venues while the Web Officer handles
-online relationship &amp; media.
+Leadership of the club has three roles: a Chess Captain and a Go Captain, who
+each drive engagement for their game, and a Maître d', who manages relationships
+with the venue and hosts the club on the night. Additional officers support the
+club day-to-day.
 
 <dl class="people">
     <dt>Go Captain</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
     <dt>Chess Captain</dt>
     <dd class="with-background-icon people-default">Zach C</dd>
-    <dt>Host</dt>
+    <dt>Maître d'</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Discord Admin</dt>
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
@@ -85,12 +85,14 @@ fill-in for the Captains when they're absent.
     <dd class="with-background-icon people-carlin-k">Carlin K</dd>
     <dt>Deputy &amp; TD</dt>
     <dd class="with-background-icon people-daniel-b">Daniel B</dd>
-    <dt>Deputy &amp; Host</dt>
+    <dt>Deputy &amp; Maître d'</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Loren S</dd>
     <dt>Deputy</dt>
     <dd class="with-background-icon people-default">Tommy I</dd>
+    <dt>Deputy</dt>
+    <dd class="with-background-icon people-default">Joe M</dd>
 </dl>
 
 ### Staff Alumni
@@ -117,6 +119,8 @@ important events.
 
 #### Chess Champions
 <dl>    
+    <dt>2026 Bend Chess Champion</dt>
+    <dd class="with-background-icon people-default">Zach C</dd>
     <dt>2025 Bend Chess Champion</dt>
     <dd class="with-background-icon people-default">Blake S</dd>
     <dt>2024 Bend Chess Champion</dt>
@@ -141,9 +145,10 @@ important events.
     <dd>
         <b>Chess:</b>
         <ul>
-            <li>Holiday: <em>Loren S</em>, 21.5 points.</li>
-            <li>Winter:</li>
-            <li>Spring:</li>
+            <li>Holiday: <em>Daniel B</em>, 23 points.</li>
+            <li>Winter: <em>Max S</em>, 37 points.</li>
+            <li>Spring: <em>Joey S</em>, 37.5 points.</li>
+            <li>Annual: <em>Joey S</em>, 93 points.</li>
         </ul>
     </dd>
     <dt>2025</dt>
@@ -186,12 +191,14 @@ important events.
 
 
 
-### Captains
+### Leaders
 <dl>
     <dt>Chess Captain, 2025-Present</dt>
     <dd class="with-background-icon people-dean-c">Zach C</dd>
     <dt>Go Captain, 2022-Present</dt>
     <dd class="with-background-icon people-leif-w">Leif W</dd>
+    <dt>Maître d', 2025-Present</dt>
+    <dd class="with-background-icon people-dean-c">Dean C</dd>
     <dt>Chess Captain, 2022-2025</dt>
     <dd class="with-background-icon people-dean-c">Dean C</dd>
 </dl>
@@ -199,8 +206,12 @@ important events.
 ### Timeline
 <img class="page-context-right" title="Chess players compete in the 2022 Spring Swiss Tournament." src="/assets/images/photos/2022-06-the-collective.jpg">
 <dl>
+    <dt>June 2026</dt>
+    <dd class="with-background-icon people-default">Zach C wins the club's 2026 Chess Championship.</dd>
+    <dt>March 2026</dt>
+    <dd class="with-background-icon people-default">Joe M becomes a Club Deputy.</dd>
     <dt>Sept 2025</dt>
-    <dd class="with-background-icon people-default">Zach C becomes the second Chess Captain, taking over from Dean C.</dd>
+    <dd class="with-background-icon people-default">Zach C becomes the second Chess Captain, taking over from Dean C, who becomes the club's Maître d'.</dd>
     <dt>July 2025</dt>
     <dd>The club returns to The Commons Cafe &amp; Taproom for the Summer, restoring the Summer &amp; Winter venue switches.</dd>
     <dt>June 2025</dt>
