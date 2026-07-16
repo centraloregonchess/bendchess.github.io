@@ -18,11 +18,11 @@ See [Linktr.ee/bendchess](https://linktr.ee/bendchess) for Club Links.
 ## Local Clubs
 <em>Bend Chess & Go Club</em> is not the only Chess club around Bend!
 
-|Name|City|Games|Meeting|
+|Name|City|Games|Meeting|Link|
 |---|---|---|---|---|
-|Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm|
-|Madras Chess Club|Madras|Chess|Thursdays&nbsp;6pm|
-|Prineville Chess Club|Prineville|Chess|Fridays&nbsp;5pm |https://prinevillechess.com||
+|Bend Chess &amp; Go Club|Bend|Chess &amp; Go|Wednesdays&nbsp;6pm-9pm||
+|Madras Chess Club|Madras|Chess|Thursdays&nbsp;6pm|https://www.meetup.com/en-au/madras-chess-club/|
+|Prineville Chess Club|Prineville|Chess|Fridays&nbsp;5pm|https://prinevillechess.com|
 
 ## Websites
 <dl>
@@ -31,8 +31,4 @@ See [Linktr.ee/bendchess](https://linktr.ee/bendchess) for Club Links.
     <dt>US Chess Federation (<a href="https://new.uschess.org/">uschess.org</a>)</dt>
     <dd>You should join the USCF if you plan to compete in USCF tournaments.</dd>
 </dl>
-
-[crux]: https://www.cruxfermentation.com/
-[mailinglist]: https://www.subscribepage.com/o3u2m9
-[meetup]: https://www.meetup.com/central-oregon-chess/
 
