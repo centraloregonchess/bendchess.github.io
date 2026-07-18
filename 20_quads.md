@@ -28,12 +28,12 @@ See the [Google Doc][googledoc].
 | [Joe M](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-joe-m) | 1164 | **+56** | 1304 | C4 | 1040 | 13/17/76% | 11 | 16 | **26** | 53 | 6 |
 | [Mike S](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-mike-s) | 1315 | +55 | 1386 | C2-C3 | 1524 | 11.5/28/41% | 12 | 27.5 | 22.5 | **62** | 5 |
 | [Max S](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-max-s) | 1394 | **+93** | 1375 | C2-C3 | 1457 | 12/23/52% | **16** | **37** | 9.5 | **62** | 4 |
-| [Quinn R](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-quinn-r) | 1450 | -76 | 1428 | C3 | 1354 | 10/19/53% | **15** | 28 | 14.5 | 57 | 4 |
+| [Quinn R](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-quinn-r) | 1450? | -76 | 1428 | C3 | 1354 | 10/19/53% | **15** | 28 | 14.5 | 57 | 4 |
 | [Chris H](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-chris-h) | 1656 | -1 | 1639 | C2-C3 | 1464 | 7/10/70% | 8 | 5 | 14 | 22 | 4 |
 | [Brad S](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-brad-s) | 1503 | — | 1439 | C3 | 1367 | 11/18/61% | — | 15 | **23** | 38 | 3 |
 | [Connor W](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-connor-w) | 963 | **+170** | 942 | C3-C4 | 1188 | 3/10/30% | 14 | 18 | 0 | 31.5 | 2 |
 | [Weston L](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-weston-l) | 840 | +32 | 894 | C4 | 1074 | 3/9/33% | 12 | 13 | 5 | 29.5 | 2 |
-| [Alex K](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-alex-k) | 963 | — | 938 | C3-C4 | 1188 | 2/10/20% | — | 15 | 5 | 20 | — |
+| [Alex K](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-alex-k) | 963? | — | 938 | C3-C4 | 1188 | 2/10/20% | — | 15 | 5 | 20 | — |
 | [Sophie S](/news/quads/2026/07/15/season-roundup-2026.html#profiles-chess-sophie-s) | 940 | -46 | 652 | C4 | 1060 | 0/6/0% | 12 | 11.5 | 7 | 20.5 | — |
 
 > Sorted by Championship Points; ties broken in order by Games played, Score, Annual Grand-Prix, Spring Grand-Prix, Winter Grand-Prix, then Holiday Grand-Prix. Players with 5 or fewer games this season are omitted.
