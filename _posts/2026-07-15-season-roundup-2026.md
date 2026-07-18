@@ -395,11 +395,11 @@ Thomas F repeats his 2025 Most Solid award, having never left the Challenger Qua
 <a name="profiles-chess-quinn-r"></a>
 #### ♟️ Quinn R
 
-Quinn R held the 3rd Quad all season, a stable presence even as her results varied: a strong January (4/5) included one blemish (an upset by rating loss to Mike S), before a tougher run through February (another upset by rating loss, to Max S) and April (swept 2-0 by Matt B, and beaten again by Mike S). He closed the season well, though, with 3/4 in June (1541 performance rating) and stayed a fixture of the 3rd Quad's regular cast of Mike S, Brad S and Matt B, each faced multiple times across the year.
+Quinn R held the 3rd Quad all season, a stable presence even as his results varied: a strong January (4/5) included one blemish (an upset by rating loss to Mike S), before a tougher run through February (another upset by rating loss, to Max S) and April (swept 2-0 by Matt B, and beaten again by Mike S). He closed the season well, though, with 3/4 in June (1541 performance rating) and stayed a fixture of the 3rd Quad's regular cast of Mike S, Brad S and Matt B, each faced multiple times across the year.
 
 | Start Rating | Final Rating | Rating Change | Average Perf. | Score | Games | Record | Champ Points |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1526 | 1450 | -76 | 1428 | 10 | 19 | 52.63% | 4 |
+| 1526 | 1450? | -76 | 1428 | 10 | 19 | 52.63% | 4 |
 
 <a name="profiles-chess-brad-s"></a>
 #### ♟️ Brad S
@@ -435,7 +435,7 @@ Alex K, like Brian M and a handful of other members, struggled to maintain regul
 
 | Start Rating | Final Rating | Rating Change | Average Perf. | Score | Games | Record | Champ Points |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| — | 963 | — | 938 | 2 | 10 | 20% | 0 |
+| — | 963? | — | 938 | 2 | 10 | 20% | 0 |
 
 <a name="profiles-chess-connor-w"></a>
 #### ♟️ Connor W
