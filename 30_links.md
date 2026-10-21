@@ -7,7 +7,7 @@ permalink: /links/
 > **We meet weekly at <a href="https://goo.gl/maps/xtNfqUNEgyt6JbQCA">Crux Fermentation Project</a>,
 > Wednesdays 6pm.**
 --->
-> **We meet weekly at <a href="https://www.thecommonsbend.com/">The Commons</a>,
+> **We meet weekly at <a Crux Fermentation Project</a>,
 > Wednesdays 6pm-9pm.**
 
 ## For Members 
